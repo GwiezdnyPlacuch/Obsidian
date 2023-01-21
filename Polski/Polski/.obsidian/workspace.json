@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2da41c1e37087bed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b5cdb13008817d27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoki literackie/Romantyzm/Pojęcia kluczowe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "319bff168cd03f6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Cierpienia młodego Wertera/Lustro duszy Wertera - przyroda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fce85a0b9aff4e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Sklepy Cynamonowe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8916965ed4a4f5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Streszczenie Sklepów Cynamonowych.md",
+                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,16 +32,6 @@
         "id": "e57fa9bcb57e55b0",
         "type": "tabs",
         "children": [
-          {
-            "id": "a0b266d85d7d4932",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
           {
             "id": "a5f15f281829fa70",
             "type": "leaf",
@@ -109,8 +54,19 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "da8d50d3f2391bd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -130,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Streszczenie Sklepów Cynamonowych.md",
+                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Streszczenie Sklepów Cynamonowych.md",
+                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Streszczenie Sklepów Cynamonowych.md"
+                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md"
               }
             }
           }
@@ -186,22 +142,21 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "8916965ed4a4f5c1",
+  "active": "fce85a0b9aff4e66",
   "lastOpenFiles": [
-    "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Sklepy Cynamonowe.md",
-    "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Streszczenie Sklepów Cynamonowych.md",
-    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Cierpienia młodego Wertera/Lustro duszy Wertera - przyroda.md",
+    "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
+    "Epoki literackie/Epoki.md",
+    "Epoki literackie/Oświecenie/Oświecenie powtórzenie.md",
+    "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
+    "Epoki literackie/Starożytność/Starożytność powtórzenie.md",
+    "Epoki literackie/Średniowiecze/Średniowiecze powtórzenie.md",
+    "Epoki literackie/Renesans/Renesans powtórzenie.md",
     "Epoki literackie/Romantyzm/Pojęcia kluczowe.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Obraz przyrody.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Świtezianka/Obraz natury.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Irracjonalizm w Dziadach.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Balladyna/Irracjonalizm w Balldaynie.md",
-    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Romantyczny indywidualizm Giaura.md",
-    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Faust/Indywidualizm w Fauście.md"
+    "Epoki literackie/Barok/Barok powtórzenie.md",
+    "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md"
   ]
 }

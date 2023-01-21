@@ -1,14 +1,15 @@
 1. [[Nazwa i ramy czasowe epoki]]
 3. [[Pojęcia kluczowe]]
 4. Typy bohaterów: poeta wieszcz, nieszczęśliwy kochanek, spiskowiec, buntownik, szaleniec. Cechy bohatera romantycznego
-5. Gatunki literackie: ballada, dramat romantyczny, epopeja narodowa, sonet
-6. Twórczość A. Mickiewicza: “Oda do młodości”, “Romantyczność”,”Sonety krymskie”, “Reduta Ordona”, “Liryki lozańskie”, “Dziady” cz II, cz IV, cz III, “Pan Tadeusz”
-7. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
-8. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
-9. Z. Krasiński “Nie-Boska Komedia” (R)
-10. A. Fredro “Zemsta”
-11. Cechy literatury romantycznej
-12. Kontynuacje i nawiązania, motywy, teskty kultury
+5. Preromantyzm w Europie
+6. Gatunki literackie: ballada, dramat romantyczny, epopeja narodowa, sonet
+7. Twórczość A. Mickiewicza: “Oda do młodości”, “Romantyczność”,”Sonety krymskie”, “Reduta Ordona”, “Liryki lozańskie”, “Dziady” cz II, cz IV, cz III, “Pan Tadeusz”
+8. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
+9. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
+10. Z. Krasiński “Nie-Boska Komedia” (R)
+11. A. Fredro “Zemsta”
+12. Cechy literatury romantycznej
+13. Kontynuacje i nawiązania, motywy, teskty kultury
 
 1.  G. Byron "Giaur" 
 	- powieść poetycka, bohater bajroniczny

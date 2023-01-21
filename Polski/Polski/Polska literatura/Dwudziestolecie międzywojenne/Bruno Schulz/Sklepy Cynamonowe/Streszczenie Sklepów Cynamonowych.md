@@ -107,6 +107,7 @@ Wiejskie podwórze latem. Za parkanem, w najdalszym zakątku między wychodkiem 
 Sobota. Wuj Karol ma po południu odwiedzić żonę i dzieci wypoczywających na letnisku pod miastem. Wrócił do mieszkania późno. Od wyjazdu żony nie sprzątał, nie ścielił łóżka. Śpi długo, właściwie podróżuje po górach i oceanach pościeli. Po przebudzeniu liczy wydatki, marzy. Wsłuchuje się we własny oddech. Oddaje się dokładnej toalecie. Jego mieszkanie toleruje go tylko. Karol czuje się u siebie jak złodziej. Lustro jest jedynym żyjącym tu elementem. W nim odbija się ktoś odwrócony plecami, oddalający się w nieznany głąb zwierciadła, podczas gdy pan Karol w milczeniu opuszcza mieszkanie.
 
 ## Sklepy cynamonowe
+
 Ojciec pochłonięty jest już zupełnie przez niewidzialną i niesłyszalną dla reszty świata sferę swoich myśli. Dla oderwania go od „chorobliwych dociekań” Matka proponuje spacer. Wybierają się razem z synem do teatru. Wyobraźnia zafascynowanego kurtyną chłopca każe mu ożywić maski, które namalowane są na błękitnym płótnie. W chwili, gdy wszyscy niecierpliwie oczekują na spektakl, Ojciec zauważa brak portfela. Matka wysyła chłopca do domu, by przyniósł zapomniany przedmiot.  
   
 Jest jasna, zimowa noc. Niezwykłe niebo, tajemniczość miasta przypominają narratorowi o sklepach cynamonowych, nazwanych tak ze względu na ciemny kolor boazerii wewnątrz.
@@ -155,7 +156,7 @@ Zimą miasto jest straszne. Każdej nocy odbywa się wędrówka jakichś dziwnyc
 Tej nocy idzie przez miasto wichura. Narrator (znów chłopiec) nie idzie do szkoły. Domownicy nasłuchują, co się dzieje na zewnątrz. Wichura niszczy miasto. Matka i Adela zaczynają pakować pościel, futra, kosztowności. Drżą szyby w oknach, ogień w piecu ledwie się tli. Subiekt Teodor i starszy brat narratora postanawiają wyjść po Ojca, bo pewnie został w sklepie z powodu wichury. Po szybkim powrocie wyjaśniają, że nie mogli znaleźć drogi do sklepu ani w ogóle poznać miasta. Do domu zaczynają schodzić się sąsiedzi. Przybyła również ciotka Perazja, która po chwili wpada w furię złości, kiedy Adela próbuje opalić pierze z żywego jeszcze koguta. Później wszyscy wracają do swych zajęć: Adela tłucze w moździerzu cynamon, Teodor i reszta domowników nasłuchują „proroctw strychowych”.
 
   
-## Noc wielkiego sezonu**
+## Noc wielkiego sezonu
 
 Dzieje się w trzynastym, fałszywym miesiącu roku. Są to
 
