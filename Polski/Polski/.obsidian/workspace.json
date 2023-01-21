@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0774a88024f703fa",
+        "id": "bf6b39bb8ebaab7c",
         "type": "tabs",
         "children": [
           {
-            "id": "fce85a0b9aff4e66",
+            "id": "b5dbd7fddc5ffb3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fce85a0b9aff4e66",
+  "active": "b5dbd7fddc5ffb3a",
   "lastOpenFiles": [
-    "Epoki literackie/Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne powtórzenie.md",
-    "Epoki literackie/Epoki.md",
-    "Epoki literackie/Oświecenie/Oświecenie powtórzenie.md",
-    "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
-    "Epoki literackie/Starożytność/Starożytność powtórzenie.md",
-    "Epoki literackie/Średniowiecze/Średniowiecze powtórzenie.md",
-    "Epoki literackie/Renesans/Renesans powtórzenie.md",
-    "Epoki literackie/Romantyzm/Pojęcia kluczowe.md",
-    "Epoki literackie/Barok/Barok powtórzenie.md",
-    "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md"
+    "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
+    "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+    "Epoki literackie/Romantyzm/Gatunki literackie - romantyzm.md",
+    "Epoki literackie/Romantyzm/Preromantyzm w Europie - romantyzm.md",
+    "Epoki literackie/Romantyzm/Typy bohaterów - romantyzm.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
+    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/G. Byron 'Giaur'.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Juliusz Słowacki 'Kordian'.md",
+    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Cierpienia młodego Wertera/J. W. Goethe Cierpienia młodego Wertera.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz IV/Adam Mickiewicz 'Dziady cz IV'.md"
   ]
 }

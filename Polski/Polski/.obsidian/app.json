@@ -7,5 +7,6 @@
     "pl"
   ],
   "rightToLeft": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
