@@ -1,0 +1,1 @@
+Przedmiotem tytułowego procesu jest nieokreślona wina Józefa K. W wyniku procesu bohater zostaje skazany na śmierć. Sam proces ma charakter absurdalny ([[Absurd w powieści]]). Tytuł powieści odnosi się do jednostkowej sytuacji bohatera utworu, ale ma też wymiar metaforyczny - życie każdego człowieka jest takim procesem.

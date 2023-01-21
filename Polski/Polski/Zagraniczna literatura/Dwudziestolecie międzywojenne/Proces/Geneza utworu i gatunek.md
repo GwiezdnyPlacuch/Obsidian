@@ -1,0 +1,1 @@
+Kafka rozpoczął pracę nad powieścią w czerwcu 1914r. tuż po zerwaniu zaręczyn z Felicją Bauer. Początkowo utwór miał być krótkim opowiadaniem o konflikcie ojca z synem, szybko jednak urósł do rangi powieści. Za życia pisarza ukazał się tylko fragment. Przed śmiercią Kafka kazał spalić rękopis. Pierwsze wydanie Procesu pojawiło się w 1925 r. , a w Polsce w 1935 r.

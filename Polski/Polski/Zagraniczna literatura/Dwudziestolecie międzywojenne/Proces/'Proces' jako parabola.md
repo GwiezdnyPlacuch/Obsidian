@@ -1,0 +1,4 @@
+Powieść Kafki można określić jako przypowieść, gdyż jej fabuła jest jedynie pretekstem do rozważań o charakterze egzystencjalnym i moralnym. Bohater "Procesu" jest przeciętnym, zwykłym człowiekiem, z którym każdy może się utożsamiać (everyman). Akcja rozgrywa się w nieokreślonym miejscu o nieokreślonym czasie. 
+Wędrówka bohatera po labiryntach korytarzy i ulic jest metaforą życia i poszukiwania jego sensu. Proces i losy głównego bohatera można interpretować na wiele sposobów. Wskazówką pomocną przy interpretacji jest [[Przypowieść o odźwiernym]], opowiedziana Józefowi przez księdza w katedrze. Bohater nie wiąże jednak tej opowieści ze swoim losem.
+"Proces" Kafki można interpretować na wiele różnych sposobów np. jako alegorię teologii kryzysu, jako analizę totalitaryzmu lub jako wyraz mieszczańskiego dekdaentyzmu.
+[[Interpretacje powieści]]

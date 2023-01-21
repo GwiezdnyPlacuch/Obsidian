@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 21,
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "line_length"
+  ],
+  "translucency": false
+}
