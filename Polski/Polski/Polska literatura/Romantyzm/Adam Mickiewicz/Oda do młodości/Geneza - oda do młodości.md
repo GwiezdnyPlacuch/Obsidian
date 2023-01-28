@@ -1,0 +1,1 @@
+*Oda do młodości* Adam Mickiewicz napisał w 1820 r. w Kownie. Utwór wyrasta z atmosfery panującej w młodzieżowych "związkach bratnich" filomatów i filaretów. *Oda do młodości* jest gwałtownym wezwaniem do przemiany świata i entuzjastyczną wiarą w zwycięstwo wolności. Jest także świadectwem przełomu dokonującego się w światopoglądzie Mickiewicza.

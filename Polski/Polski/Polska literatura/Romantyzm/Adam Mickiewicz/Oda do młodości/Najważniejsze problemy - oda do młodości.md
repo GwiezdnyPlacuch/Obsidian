@@ -1,0 +1,8 @@
+Utwór ten jest apostrofą do młodości, której poeta przypisuje wielką siłę. Ukazuje się ona jako prawdziwa wartość, jako bogini zdolna do dokonywania wielkich przemian, jako siła uczuć. To właśnie młodość potrafi „przypiąć skrzydła”, wznieść ponad ziemię i ukazać wszystko z lotu ptaka. Już we wstępie utworu można odczytać pragnienie lotu, wzniesienia się ponad ziemię. Taki lot dokonuje się w wyobraźni poety. Ziemia widziana z lotu ptaka okazuje się być okryta ciemnością, zaś na jej powierzchni – samolubny, samotny w swoim egoizmie „płaz w skorupie” – najprawdopodobniej jest to metaforyczne przedstawienie „starych” klasyków. Jednak nad tą smutną planetą widać jutrzenkę, która oznacza zmiany – młodość i romantyzm. Tym razem kolejna apostrofa skierowana jest do młodych przyjaciół. Mają oni działać wspólnie, z poświęceniem i w myśl hasła „oko za oko”-
+gwałt niech się gwałtem odciska.
+
+Poeta mówi: pokonaj zmysły i rozum, gdyż siła młodości jest ponad nimi. Utwór zakończony jest optymistyczną wizją – jesteśmy świadkami chwili, gdy świat rzeczy stanął na zrębie – czyli zaczyna istnieć od początku.
+
+Oda do młodości pełna jest entuzjazmu, młodzieńczej energii i życiowego optymizmu. Jednak oprócz wiary w siłę młodości zawiera ona również niechęć wobec starości, która oznaczać tu może bierność, egoizm, klasycyzm. Stała się ona „żelaznym” utworem polskiej literatury, gdyż wielu późniejszych twórców nawiązywało do niej w swojej twórczości.
+
+Jest ona utworem adekwatnym nie tylko do tematyki postrzegania młodości w literaturze, ale również ideałów romantycznych, które odrzucają realizm i rozsądek, rozum i wiedzę na rzecz wiary w siłę uczuć.

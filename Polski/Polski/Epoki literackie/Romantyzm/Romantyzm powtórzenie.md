@@ -3,46 +3,54 @@
 3. [[Typy bohaterów - romantyzm|Typy bohaterów]]
 4. [[Preromantyzm w Europie - romantyzm|Preromantyzm w Europie]]
 5. [[Gatunki literackie - romantyzm|Gatunki literackie]]
-6. Twórczość A. Mickiewicza: “Oda do młodości”, “Romantyczność”,”Sonety krymskie”, “Reduta Ordona”, “Liryki lozańskie”, “Dziady” cz II, cz IV, cz III, “Pan Tadeusz”
-7. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
-8. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
-9. Z. Krasiński “Nie-Boska Komedia” (R)
-10. A. Fredro “Zemsta”
-11. Cechy literatury romantycznej
-12. Kontynuacje i nawiązania, motywy, teskty kultury
+6. [[Adam Mickiewicz]]
+	- [[Oda do młodości]]
+	- Romantyczność
+	- Sonety krymskie
+	- Reduta Ordona
+	- Liryki lozańskie
+	- Dziady cz II
+	- Dziady cz IV
+	- Dziady cz III
+	- [[Adam Mickiewicz 'Pan Tadeusz'|Pan Tadeusz]]
+1. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
+2. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
+3. Z. Krasiński “Nie-Boska Komedia” (R)
+4. A. Fredro “Zemsta”
+5. Cechy literatury romantycznej
+6. Kontynuacje i nawiązania, motywy, teskty kultury
 
-1.  G. Byron "Giaur" 
+7.  G. Byron "Giaur" 
 	- powieść poetycka, bohater bajroniczny
-2. J. W. Goethe "Faust" 
+8. J. W. Goethe "Faust" 
 	- nowa forma dramatyczna.
-3. J. W. Goethe "Król olch" jako przykład ballady.
-4. J. W. Goethe "Wolność wiodąca lud na barykady"
-5. J. W. Goethe "Cierpienia młodego Wertera"
+9. J. W. Goethe "Król olch" jako przykład ballady.
+10. J. W. Goethe "Wolność wiodąca lud na barykady"
+11. J. W. Goethe "Cierpienia młodego Wertera"
 	- geneza utworu
 	- wątki autobiograficzne.
 	- Bohater werteryczny
 	- powieść w listach
 	- O. Witczakowa "Werter i werteryzm" 
 	- Znaczenie utworu
-6. A. Mickiewicz "Oda do młodości" 
-7. A. Mickiewicz "Romantyczność"
-8. A. Mickiewicz "Sonety krymskie"
+13. A. Mickiewicz "Romantyczność"
+14. A. Mickiewicz "Sonety krymskie"
 	- wędrowca w świecie natury
 	- krajobraz romantyczny
-9. Dramat romantyczny
-10. Mesjanizm
-11. A. Mickiewicz "Dziady" cz. III
+15. Dramat romantyczny
+16. Mesjanizm
+17. A. Mickiewicz "Dziady" cz. III
 	- Społeczeństwo polskie
 	- Elementy fantastyczne
 	- Przegląd najważniejszych treści
 	- Rola Ustępu 
 	- Portret matki - pani Rollison
 	- Obraz władcy - pomnik Piotra Wielkiego
-12. J. Duda-Gracz "Wielka Emigracja"
-13. "Konrad Wallenrod"
+18. J. Duda-Gracz "Wielka Emigracja"
+19. "Konrad Wallenrod"
 	- Walenrodyzm
 	- przesłanie i znaczenie utworu
-14. [[Adam Mickiewicz 'Pan Tadeusz']] 
+20. [[Adam Mickiewicz 'Pan Tadeusz']] 
 	- epopeja narodowa
 	- geneza utworu
 	- Zwyczaje szlacheckie i obraz polskiej szlachty
@@ -51,13 +59,15 @@
 	- Dworek w Soplicowie jako ostoja polskości.
 	- Wieszcz narodowy
 	- Motywy i komentarze
-15.  J. Słowacki "Hymn (Smutno mi, Boże)"
-16.  J. Słowacki "Rozłączenie"
-17. Znaczenie poezji J. Słowackiego.
-18. J. Słowackiego "Kordian".
+21.  J. Słowacki "Hymn (Smutno mi, Boże)"
+22.  J. Słowacki "Rozłączenie"
+23. Znaczenie poezji J. Słowackiego.
+24. J. Słowackiego "Kordian".
 	- Problematyka dramatu
 	- Monolog Kordiana na Mount Blanc.
 	- Winkelriedyzm.
 	- Kordian jako bohater romantyczny
 	- "Kordian" jako głos w dyskusji nad losem narodu
 	- "Kordian" jako polemika J. Słowackiego z A. Mickiewiczem
+25. Towarzystwo filomatów
+26. 
