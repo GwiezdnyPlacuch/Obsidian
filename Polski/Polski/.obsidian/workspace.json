@@ -11,11 +11,40 @@
             "id": "d5efb216748ee975",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b52e5bb4f2cf9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef2b09029d0ddea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Adam Mickiewicz 'Romantyczność'.md"
+              }
             }
           }
         ]
@@ -138,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5efb216748ee975",
+  "active": "ef2b09029d0ddea9",
   "lastOpenFiles": [
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Irracjonalizm w Romantyczności.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Streszczenie - romantycznosc.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Adam Mickiewicz.md",
     "Polska literatura/Romantyzm/Adam Mickiewicz/Oda do młodości/Oda do młodości.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Oda do młodości/Najważniejsze problemy - oda do młodości.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Oda do młodości/Kompozycja i styl - oda do młodości.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Oda do młodości/Gatunek - oda do młodości.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Oda do młodości/Geneza - oda do młodości.md",
-    "Epoki literackie/Romantyzm/Nazwa i ramy czasowe epoki - romantyzm.md",
-    "Epoki literackie/Romantyzm/Gatunki literackie - romantyzm.md",
-    "Epoki literackie/Epoki.md"
+    "Motywy literackie/kobieta fatalna.md",
+    "Motywy literackie/Motywy literackie.md",
+    "Motywy literackie/miłość rycerska.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Adam Mickiewicz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Oda do młodości/Najważniejsze problemy - oda do młodości.md"
   ]
 }

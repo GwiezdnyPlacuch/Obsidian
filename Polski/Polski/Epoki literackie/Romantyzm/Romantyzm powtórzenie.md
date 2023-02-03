@@ -5,7 +5,7 @@
 5. [[Gatunki literackie - romantyzm|Gatunki literackie]]
 6. [[Adam Mickiewicz]]
 	- [[Oda do młodości]]
-	- Romantyczność
+	- [[Adam Mickiewicz 'Romantyczność'|Romantyczność]]
 	- Sonety krymskie
 	- Reduta Ordona
 	- Liryki lozańskie
