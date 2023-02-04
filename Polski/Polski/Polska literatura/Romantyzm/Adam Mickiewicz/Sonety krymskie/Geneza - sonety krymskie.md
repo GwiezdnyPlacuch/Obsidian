@@ -1,0 +1,1 @@
+*Sonety krymskie* to cykl 18 wierszy napisanych przez Adama Mickiewicza w 1825 r. podczas przymusowego pobytu w carskiej Rosji. Poeta trafił tam jako wygnaniec, skazany rok wcześniej w procesie filomatów. Wyjazd na Krym odkrył przed nim piękno i metafizykę Orientu.

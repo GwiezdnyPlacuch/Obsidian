@@ -10,16 +10,43 @@
           {
             "id": "7f5a102d7472636b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f2d142ca8235e508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Adam Mickiewicz 'Sonety Krymskie'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0fe202654930f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Romantyczność/Adam Mickiewicz 'Romantyczność'.md"
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md"
               }
             }
           }
@@ -146,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f5a102d7472636b",
+  "active": "f0fe202654930f0d",
   "lastOpenFiles": [
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Ballady i romanse - wybrane ballady.md",
-    "Gatunki literackie/Ballada.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Tematyka - ballady i romanse.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Geneza - ballady i romanse.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Oda do młodości/Oda do młodości.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Adam Mickiewicz 'Sonety Krymskie'.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Kompozycja - sonety krymskie.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Tematyka - sonety krymskie.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Gatunek - sonety krymskie.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Geneza - sonety krymskie.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Adam Mickiewicz.md",
-    "Gatunki literackie/Dramat romantyczny.md",
-    "Gatunki literackie/Epopeja narodowa.md",
-    "Gatunki literackie/Sonet.md"
+    "Epoki literackie/Romantyzm/Filomaci i filareci.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Ballady i romanse - wybrane ballady.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Kontynuacje i nawiązania - ballady i romanse.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Najważniejsze problemy - ballady i romanse.md"
   ]
 }

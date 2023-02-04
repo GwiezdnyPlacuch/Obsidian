@@ -1,0 +1,2 @@
+Wiersz cechuje charakterystyczna dla ballady romantycznej atmosfera niesamowitości i grozy. Tworzą ją nie tylko mroczny temat, lecz także ponury krajobraz: ciemny las, wiatr, puszczyki.
+Portret psychologiczny głównej bohaterki ma wiele wspólnych cech z postaciami szekspirowskimi. Oprócz nawiązania do dramatów Williama Szekspira w balladzie pojawia się też inny element charakterystyczny dla literatury romantycznej - akcja utworu rozgrywa się w średniowieczu.

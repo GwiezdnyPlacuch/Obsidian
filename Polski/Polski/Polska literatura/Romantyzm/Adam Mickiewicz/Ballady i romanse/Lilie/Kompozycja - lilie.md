@@ -1,0 +1,5 @@
+Rytm wiersza jest nieregularny. Strofy są nierównej długości, podobnie jak poszczególne wersy. Układy rymów również są zróżnicowane (parzyste i przeplatane). Takie zabiegi wersyfikacyjne służą podkreśleniu dramatyzmu i grozy opowiadanej historii. Dynamizm poeta osiąga także, wplatając w tok narracji wypowiedzi bohaterów, wykorzystując powtórzenia i paralelizmy, wyrazy dźwiękonaśladowcze, wykrzyknienia i zdania wykrzyknikowe oraz pytające.
+Język ballady jest wzorowany na liryce ludowej, cechuje go emocjonalność oraz kreowanie nastroju grozy. Ballada została osnuta na motywach gminnej pieśni *Stała się nam nowina, pani pana zabiła*. Inspirację ludowym pierwowzorem widać zarówno w prostocie wersyfikacji i języka, jak i utożsamianiu się narratora z postawą poznawczą oraz kodeksem moralnym ludu. Świat nadprzyrodzony współistnieje w balladzie z realnym, irracjonalne siły ingerują w życie ludzi, a opowiedziana historia ilustruje żywą prawdę, w którą wierzy lud. Formułuje ją wprost pustelnik:
+
+>Nie masz zbrodni bez kary
+

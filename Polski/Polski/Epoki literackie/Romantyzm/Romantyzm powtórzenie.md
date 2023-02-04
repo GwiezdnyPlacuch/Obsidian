@@ -10,7 +10,7 @@
 6. [[Adam Mickiewicz]]
 	- [[Oda do młodości]]
 	- [[Adam Mickiewicz 'Romantyczność'|Romantyczność]]
-	- Sonety krymskie
+	- [[Adam Mickiewicz 'Sonety Krymskie'|Sonety krymskie]]
 	- Reduta Ordona
 	- Liryki lozańskie
 	- Dziady cz II
@@ -22,7 +22,8 @@
 4. Z. Krasiński “Nie-Boska Komedia” (R)
 5. A. Fredro “Zemsta”
 6. Cechy literatury romantycznej
-7. Kontynuacje i nawiązania, motywy, teksty kultury
+7. [[Filomaci i filareci]]
+8. Kontynuacje i nawiązania, motywy, teksty kultury
 
 8.  G. Byron "Giaur" 
 	- powieść poetycka, bohater bajroniczny
