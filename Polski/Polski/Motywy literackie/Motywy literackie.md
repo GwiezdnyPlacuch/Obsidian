@@ -24,7 +24,7 @@
 24. bunt młodzieńczy
 25. cierpienie niezawinione
 26. poeta/artysta
-27. miasto jako przestrzeń rozwoju
+27. [[miasto jako przestrzeń rozwoju]]
 28. samotność  jako wybór człowieka
 29. dom jako ostoja bezpieczeństwa
 30. intuicja i przeczucie

@@ -1,0 +1,5 @@
+1. [[Geneza - ballady i romanse||Geneza]]
+2. [[Ballada||Gatunek]]
+3. [[Tematyka - ballady i romanse||Tematyka]]
+4. [[Adam Mickiewicz 'Romantyczność']]
+5. [[Adam Mickiewicz 'Świtezianka']]

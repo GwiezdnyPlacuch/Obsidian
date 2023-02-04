@@ -29,7 +29,7 @@ Przykłady w utworach:
 Romantyczni poeci uważali naturę z organiczną całość, nieustannie stającą się i przekształcającą. Była to wizja panteistyczna. Kontakt z przyrodą pozwalał na ucieczkę od znienawidzonej przez romantyków cywilizacji przemysłowej.
 
 Przykłady w utworach:
-- [[Obraz natury|"Świtezianka" Adama Mickiewicza]]
+- [[Obraz natury - świtezianka|"Świtezianka" Adama Mickiewicza]]
 - [[Obraz przyrody|"Pan Tadeusz" Adama Mickiewicza]]
 - [[Lustro duszy Wertera - przyroda|"Cierpienia młodego Wertera" J. W. Goethe]]
 

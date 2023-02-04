@@ -1,0 +1,1 @@
+Cykl 14 utworów zatytułowany *Ballady i romanse* Mickiewicz opublikował w 1822r. w pierwszym tomie *Poezji*. Poeta wyłożył w tym zbiorze zasady programowe nowej konwencji poetyckiej i pokazał przykład ich realizacji, dlatego wydanie *Ballad i romansów* uznaje się za **początek romantyzmu w literaturze polskiej**.
