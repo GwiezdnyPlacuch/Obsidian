@@ -13,9 +13,10 @@
 	- [[Adam Mickiewicz 'Sonety Krymskie'|Sonety krymskie]]
 	- [[Reduta Ordona]]
 	- Liryki lozańskie
-	- Dziady cz II
-	- Dziady cz IV
-	- Dziady cz III
+	- [[Dziady cz II]]
+	- [[Dziady cz IV]]
+	- [[Dziady cz III]]
+		- [[Społeczeństwo polskie w dziadach cz III|Społeczeństwo polskie]]
 	- [[Adam Mickiewicz 'Pan Tadeusz'|Pan Tadeusz]]
 2. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
 3. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
@@ -41,10 +42,9 @@
 13. A. Mickiewicz "Sonety krymskie"
 	- wędrowca w świecie natury
 	- krajobraz romantyczny
-14. Dramat romantyczny
 15. Mesjanizm
 16. A. Mickiewicz "Dziady" cz. III
-	- Społeczeństwo polskie
+	- 
 	- Elementy fantastyczne
 	- Przegląd najważniejszych treści
 	- Rola Ustępu 

@@ -1,0 +1,1 @@
+Akcja dramatu rozgrywa się w ciągu trzech godzin, od dziewiątej do północy, w listopadową noc dziadów, czyli Zaduszki, w mieszkaniu księdza. 

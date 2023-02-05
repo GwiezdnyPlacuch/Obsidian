@@ -1,0 +1,1 @@
+Dramat ukazuje **cierpienia miłosne odtrąconego kochanka**. Gustaw popełnia samobójstwo, które jednak nie kładzie kresu jego cierpieniom. Bohater nie umiera do końca. W noc dziadów - w czas, kiedy dusze, które nie mogą znaleźć ukojenia po śmierci, nachodzą żywych - odwiedza księdza i prowadzi z nim długą rozmowę

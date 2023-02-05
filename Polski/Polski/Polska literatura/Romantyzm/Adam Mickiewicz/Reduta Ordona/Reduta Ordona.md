@@ -4,7 +4,7 @@
 4. [[Kompozycja - reduta ordona|Kompozycja]]
 5. [[Najważniejsze problemy - reduta ordona|Najważniejsze problemy]]
 
-Utwór można wykorzystać w wypowiedziach dotyczącycyh:
+Utwór można wykorzystać w wypowiedziach dotyczących:
 - wzoru bohatera romantycznego
 - wątków batalistycznych w tekstach kultury
 - różnych modeli patriotyzmu

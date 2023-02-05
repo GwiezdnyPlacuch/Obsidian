@@ -1,0 +1,1 @@
+Akcja rozgrywa się nocą w kaplicy cmentarnej i trwa kilka godzin. W pomieszczeniu panuje całkowita ciemność. Uczestnikom obrzędu zgromadzonym wokół trumny przewodniczy Guślarz. Jego zadaniem jest przywoływanie pokutujących dusz, częstowanie ich przygotowanym pożywieniem, a następnie odpędzanie.

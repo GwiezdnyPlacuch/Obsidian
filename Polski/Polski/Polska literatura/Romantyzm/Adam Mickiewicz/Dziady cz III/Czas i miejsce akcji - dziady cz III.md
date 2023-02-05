@@ -1,0 +1,1 @@
+Akcja dramatu obejmuje jeden rok - poszczególne sceny rozgrywają się 1 listopada i w Wigilię 1823 r. oraz w karnawale i 1 listopada 1824 r. Miejscem zdarzeń się więzienie w Wilnie, dworek pod Lwowem, arystokratyczny salon w Warszawie, wileńska rezydencja Nowosilcowa oraz wiejski cmentarz. Dołączony do dramatu *Ustęp* opisuje Rosję (drogę na zesłanie, Petersburg).

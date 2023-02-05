@@ -5,7 +5,7 @@
 - czuje się duchowym przywódcą narodu
 
 Przykłady:
-- [[Adam Mickiewicz 'Dziady cz III']] Konrad
+- [[Dziady cz III]] Konrad
 
 ### Nieszczęśliwy kochanek
 - samotny indywidualista
@@ -13,7 +13,7 @@ Przykłady:
 - ginie śmiercią samobójczą
 
 Przykłady:
-- [[Adam Mickiewicz 'Dziady cz IV']] Gustaw
+- [[Dziady cz IV]] Gustaw
 - [[J. W. Goethe Cierpienia młodego Wertera]] Werter
 
 ### Spiskowiec
@@ -31,7 +31,7 @@ Przykłady:
 
 Przykłady:
 - [[G. Byron 'Giaur']] Giaur
-- [[Adam Mickiewicz 'Dziady cz IV']] Gustaw
+- [[Dziady cz IV]] Gustaw
 
 ### Szaleniec
 - utrata ukochanej osoby przyprawiła go o szaleństwo
@@ -40,7 +40,7 @@ Przykłady:
 
 Przykłady:
 - [[Adam Mickiewicz 'Romantyczność']] Karusia
-- [[Adam Mickiewicz 'Dziady cz IV']] Gustaw
+- [[Dziady cz IV]] Gustaw
 
 ### Bohater romantyczny
 - niepowtarzalny, niezwykły, namiętny, indywidualista, wrażliwy
@@ -51,5 +51,5 @@ Przykłady:
 Przykłady:
 - [[J. W. Goethe Cierpienia młodego Wertera]] Werter
 - [[G. Byron 'Giaur']] Giaur
-- [[Adam Mickiewicz 'Dziady cz IV']] Gustaw
+- [[Dziady cz IV]] Gustaw
 - [[Adam Mickiewicz 'Pan Tadeusz']] Jacek Soplica

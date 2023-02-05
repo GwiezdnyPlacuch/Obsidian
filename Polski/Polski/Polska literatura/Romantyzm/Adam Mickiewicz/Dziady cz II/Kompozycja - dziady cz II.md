@@ -1,0 +1,6 @@
+- Budowa utworu jest luźna i fragmentaryczna - zawiera trzy epizody rozgrywające się podczas nocnego obrzędu, i zdradza podobieństwo do kompozycji muzycznej, o czym świadczą takie elementy jak: chór, powracający refren 
+	*Ciemno wszędzie, głucho wszędzie*
+	*Co to będzie, co to będzie?*
+ i rytmiczne powtórzenia zaklęć oraz uroczystych sentencji (w które ubrane zostały przestrogi moralne udzielane przez zjawy)
+- Otwartość kompozycji podkreśla końcowa scena z udziałem milczącego Widma, które pełni funkcję łącznika między II i IV cz. Dziadów.
+- Charakterystyczne dla konwencji romantycznej ludowość i fantastyka wyraźnie wpłynęły na ukształtowanie warstwy językowo-stylistycznej utworu. W tekście występują dialektyzmu oraz typowe dla stylizacji gwarowej zdrobnienia i zgrubienia. Duchy przyzywane i odpędzane za pomocą zaklęć. Nastrój tajemniczości wynika nie tylko z niezwykłych okoliczności (seans spirytystyczny, odbywa się w cmentarnej kaplicy o północy), lecz także z doboru słownictwa wywodzącego się z literatury grozy.

@@ -1,0 +1,7 @@
+Wieczorem ksiądz wraz z dziećmi modli się za przebywające w czyśćcu dusze zmarłych. Nagle do drzwi stuka Pustelnik, ubrany w łachmany, z trawą i liśćmi we włosach. Przerażone dzieci biorą go za upiora. Gość nieskładnie wyjaśnia, że źródłem jego cierpień jest miłosna rana. Zegar wybija dziewiątą. Pustelnik z goryczą mówi o *książkach zbójeckich* (Nowej Heloizie Rousseau i Cierpieniach młodego Wertera Goethego), które zatruły jego duszę romantycznymi wyobrażeniami o miłości. Wychodzi na dwór i przyprowadza swojego przyjaciela - jodłową gałąź, która przypomina mu ostatnie spotkanie z ukochaną. Wierzy, że kiedyś znów będą razem. 
+Bicie zegara oznajmia nadejście godziny dziesiątej. Ksiądz rozpoznaje w Pustelniku swojego ucznia, Gustawa. Zrozpaczony młodzieniec gwałtownie oskarża ukochaną, która go odtrąciła, o okrucieństwo, płytkość, materializm. W uniesieniu przebija się sztyletem, ale nie umiera - jest zatem upiorem. 
+Mija godzina jedenasta. Gustaw wyjaśnia, że przybył do księdza, aby zmienić jego stosunek do obrzędu dziadów, zwalczanego przez Kościół jako zabobon. W trzy godziny spędzona u księdza opowiedział całe swoje życie. Nazywa je godzinami: miłości, rozpaczy i przestrogi. Ziemskim grzechem Gustawa było całkowite oddanie się miłości do ukochanej. Nawet po śmierci nie może o niej zapomnieć. Wypowiada słowa przestrogi, że
+> Kto za życia choć raz był w niebie,
+Ten po śmierci nie trafi od razu. 
+
+Tą żywą prawdę, odwołującą się do ludowej moralności, powtarza chór. Zegar wybija dwunastą i duch Gustawa znika.

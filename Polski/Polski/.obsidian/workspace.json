@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "78e58df7cd651921",
+            "id": "599c51879a994cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Dziady cz III.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69aaf024f8fc4f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md"
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md"
               }
             }
           }
@@ -161,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78e58df7cd651921",
+  "active": "69aaf024f8fc4f06",
   "lastOpenFiles": [
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Najważniejsze problemy - reduta ordona.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Kompozycja - reduta ordona.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Tematyka  - reduta ordona.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Geneza - reduta ordona.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Gatunek  - reduta ordona.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Adam Mickiewicz 'Sonety Krymskie'.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Kompozycja - sonety krymskie.md"
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Dziady cz III.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Streszczenie - dziady cz III.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Czas i miejsce akcji - dziady cz III.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Kompozycja i styl - dziady cz III.md",
+    "Gatunki literackie/Dramat romantyczny.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Tematyka - dziady cz III.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Gatunek - dziady cz III.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Geneza - dziady cz III.md"
   ]
 }
