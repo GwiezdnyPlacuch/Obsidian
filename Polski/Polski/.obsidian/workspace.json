@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "f2d142ca8235e508",
+            "id": "78e58df7cd651921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Adam Mickiewicz 'Sonety Krymskie'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0fe202654930f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md"
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md"
               }
             }
           }
@@ -173,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0fe202654930f0d",
+  "active": "78e58df7cd651921",
   "lastOpenFiles": [
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Adam Mickiewicz 'Sonety Krymskie'.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Kompozycja - sonety krymskie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Tematyka - sonety krymskie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Gatunek - sonety krymskie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Geneza - sonety krymskie.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Najważniejsze problemy - reduta ordona.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Epoki literackie/Romantyzm/Filomaci i filareci.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Ballady i romanse - wybrane ballady.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Kontynuacje i nawiązania - ballady i romanse.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Najważniejsze problemy - ballady i romanse.md"
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Reduta Ordona.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Kompozycja - reduta ordona.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Tematyka  - reduta ordona.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Geneza - reduta ordona.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Reduta Ordona/Gatunek  - reduta ordona.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Adam Mickiewicz 'Sonety Krymskie'.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Najważniejsze problemy - sonety krymskie.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Sonety krymskie/Kompozycja - sonety krymskie.md"
   ]
 }

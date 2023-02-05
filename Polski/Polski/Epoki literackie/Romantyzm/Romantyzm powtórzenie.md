@@ -11,7 +11,7 @@
 	- [[Oda do młodości]]
 	- [[Adam Mickiewicz 'Romantyczność'|Romantyczność]]
 	- [[Adam Mickiewicz 'Sonety Krymskie'|Sonety krymskie]]
-	- Reduta Ordona
+	- [[Reduta Ordona]]
 	- Liryki lozańskie
 	- Dziady cz II
 	- Dziady cz IV

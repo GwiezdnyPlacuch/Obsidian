@@ -1,0 +1,2 @@
+- potęga natury - W *Sonetach krymskich* słowo poetyckie służy wyrażeniu tajemnic natury, której zrozumienie było dla romantyków drogą do poznania absolutu. Przyroda stanowi zarówno źródło przeżyć podmiotu mówiącego, jak ich odzwierciedlenie.
+- dojrzewanie bohatera - Cykl jest swoistym zapisem dojrzewania bohatera lirycznego, który z wygnańca, oszołomionego orientalną przyrodą, tęskniącego za ojczyzną zmienia się w dojrzałego pielgrzyma, poetę świadomego swoich twórczych możliwości

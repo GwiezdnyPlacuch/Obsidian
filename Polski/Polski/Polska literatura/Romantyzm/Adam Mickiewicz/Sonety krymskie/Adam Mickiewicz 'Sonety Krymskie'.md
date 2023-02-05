@@ -2,4 +2,4 @@
 2. [[Gatunek - sonety krymskie|Gatunek]]
 3. [[Tematyka - sonety krymskie|Tematyka]]
 4. [[Kompozycja - sonety krymskie|Kompozycja]]
-5. 
+5. [[Najważniejsze problemy - sonety krymskie|Najważniejsze problemy]]

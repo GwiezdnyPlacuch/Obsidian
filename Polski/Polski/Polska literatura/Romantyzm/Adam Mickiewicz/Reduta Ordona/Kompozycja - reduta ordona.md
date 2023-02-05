@@ -1,0 +1,4 @@
+Niezwykła plastyczność i dynamizm scen batalistycznych powstał dzięki wykorzystaniu licznych porównań, animizacji, personifikacji, powtórzeń, wyrazów dźwiękonaśladowczych, pauz i zdań pytających.
+Podmiot mówiący oddziałuje na uczucia odbiorcy, wyraźnie podkreślając moralną wyższość jednej ze stron. Stosuje w tym celu nacechowane emocjonalnie epitety oraz poetyckie obrazy.
+Wiersz puentuje sentencja odsłaniająca symboliczny sens czynu Ordona, który wolał wysadzić redutę wraz z obrońcami, niż poddać się Rosjanom.
+Utwór został napisany regularnym wierszem sylabicznym, trzynastozgłoskowym, o parzystym układzie rymów.
