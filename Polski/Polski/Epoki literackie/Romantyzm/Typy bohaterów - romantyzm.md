@@ -22,7 +22,7 @@ Przykłady:
 - gotów poświęcić życie za ojczyznę
 
 Przykłady:
-- [[Juliusz Słowacki 'Kordian']] Kordian
+- [[Kordian]] Kordian
 
 ### Buntownik
 - jego przeszłość często kryje straszną tajemnicę

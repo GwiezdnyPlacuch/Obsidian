@@ -16,20 +16,9 @@
 	- [[Dziady cz II]]
 	- [[Dziady cz IV]]
 	- [[Dziady cz III]]
-		- [[Społeczeństwo polskie w dziadach cz III|Społeczeństwo polskie]]
-		- [[Elementy fantastyczne - dziady cz III|Elementy fantastyczne]]
-		- [[Rola Ustępu - dziady cz III|Rola Ustępu]]
-		- [[Najważniejsze problemy - dziady cz III|Najważniejsze problemy]]
-		- [[Portret matki - pani Rollison - dziady cz III|Portret matki - pani Rollison]]
-		- [[Obraz władcy - pomnik Piotra Wielkiego - dziady cz III|Obraz władcy - pomnik Piotra Wielkiego]]
 	- [[Pan Tadeusz|Pan Tadeusz]]
-		- [[Geneza - pan tadeusz|Geneza]]
-		- [[Pan Tadeusz jako epopeja narodowa - pan tadeusz|Pan Tadeusz jako epopeja narodowa]]
-		- [[Dworek w Soplicowie jako ostoja polskości - pan tadeusz|Dworek w Soplicowie jako ostoja polskości]]
-		- [[Zwyczaje szlacheckie i obraz polskiej szlachty - pan tadeusz|Zwyczaje szlacheckie i obraz polskiej szlachty]]
-		- [[Perypetie miłosne - pan tadeusz|Perypetie miłosne]]
-		- Jacek Soplica jako nowy typ bohatera romantycznego.
-		- Motywy i komentarze - "Pan Tadeusz".
+7. Juliusz Słowacki
+	- [[Kordian]]
 1. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
 2. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
 3. Z. Krasiński “Nie-Boska Komedia” (R)
@@ -51,19 +40,15 @@
 	- powieść w listach
 	- O. Witczakowa "Werter i werteryzm" 
 	- Znaczenie utworu
-13. A. Mickiewicz "Sonety krymskie"
-	- wędrowca w świecie natury
-	- krajobraz romantyczny
-14. Mesjanizm
-17. J. Duda-Gracz "Wielka Emigracja"
-18. "Konrad Wallenrod"
+13. Mesjanizm
+14. J. Duda-Gracz "Wielka Emigracja"
+15. "Konrad Wallenrod"
 	- Walenrodyzm
 	- przesłanie i znaczenie utworu
-19.  J. Słowacki "Hymn (Smutno mi, Boże)"
-20.  J. Słowacki "Rozłączenie"
-21. Znaczenie poezji J. Słowackiego.
-22. J. Słowackiego "Kordian".
-	- Problematyka dramatu
+16.  J. Słowacki "Hymn (Smutno mi, Boże)"
+17.  J. Słowacki "Rozłączenie"
+18. Znaczenie poezji J. Słowackiego.
+19. J. Słowackiego "Kordian".
 	- Monolog Kordiana na Mount Blanc.
 	- Winkelriedyzm.
 	- Kordian jako bohater romantyczny

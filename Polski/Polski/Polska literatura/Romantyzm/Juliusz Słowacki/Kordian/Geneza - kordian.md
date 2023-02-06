@@ -1,0 +1,1 @@
+Dramat został wydany anonimowo w Paryżu w 1834 r. Miał być pierwszą częścią trylogii zatytułowanej *Spisek koronacyjny*. Nie doczekał się jednak kontynuacji - część druga prawdopodobnie nigdy nie powstała, a szkic części trzeciej poeta zniszczył.

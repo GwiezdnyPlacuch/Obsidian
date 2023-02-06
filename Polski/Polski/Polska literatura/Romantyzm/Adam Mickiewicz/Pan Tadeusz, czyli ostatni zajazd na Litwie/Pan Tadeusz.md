@@ -6,4 +6,16 @@
 6. [[Dworek w Soplicowie jako ostoja polskości - pan tadeusz|Dworek w Soplicowie jako ostoja polskości]]
 7. [[Zwyczaje szlacheckie i obraz polskiej szlachty - pan tadeusz|Zwyczaje szlacheckie i obraz polskiej szlachty]]
 8. [[Perypetie miłosne - pan tadeusz|Perypetie miłosne]]
-9. 
+9. [[Jacek Soplica jako nowy typ bohatera romantycznego - pan tadeusz|Jacek Soplica jako nowy typ bohatera romantycznego]]
+
+Utwór można wykorzystać w wypowiedziach dotyczących:
+- wewnętrznej przemiany bohatera
+- sielankowej wizji dworu ziemiańskiego
+- motywu Arkadii
+- małej ojczyzny
+- panoramy obyczajów szlacheckich
+- miłości
+- zemsty
+- winy i pokuty
+- patriotyzmu
+- obrazu przyrody w literaturze

@@ -27,26 +27,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Pan Tadeusz.md",
+                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Kordian.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85733bf9e3127921",
+            "id": "9b844f9dc851b1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
+                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Problematyka dramatu - kordian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fcfada977086e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Winkelriedyzm - kordian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
+                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Winkelriedyzm - kordian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
+                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Winkelriedyzm - kordian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md"
+                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Winkelriedyzm - kordian.md"
               }
             }
           }
@@ -173,17 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85733bf9e3127921",
+  "active": "7fcfada977086e62",
   "lastOpenFiles": [
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Problematyka dramatu - kordian.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Kordian.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Winkelriedyzm - kordian.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Gatunek - kordian.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Kordian/Geneza - kordian.md",
     "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Pan Tadeusz.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Zwyczaje szlacheckie i obraz polskiej szlachty - pan tadeusz.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Dworek w Soplicowie jako ostoja polskości - pan tadeusz.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Tematyka - pan tadeusz.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Kompozycja i styl - pan tadeusz.md",
-    "Gatunki literackie/Gawęda szlachecka.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Pan Tadeusz jako epopeja narodowa - pan tadeusz.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Geneza - pan tadeusz.md"
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Jacek Soplica jako nowy typ bohatera romantycznego - pan tadeusz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Zwyczaje szlacheckie i obraz polskiej szlachty - pan tadeusz.md"
   ]
 }
