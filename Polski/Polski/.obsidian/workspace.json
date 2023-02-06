@@ -22,25 +22,25 @@
             }
           },
           {
-            "id": "599c51879a994cd8",
+            "id": "fb2020f9f0596495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Dziady cz III.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Pan Tadeusz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69aaf024f8fc4f06",
+            "id": "85733bf9e3127921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
-                "mode": "preview",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md"
+                "file": "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md"
               }
             }
           }
@@ -173,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69aaf024f8fc4f06",
+  "active": "85733bf9e3127921",
   "lastOpenFiles": [
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Perypetie miłosne - pan tadeusz.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Dziady cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Społeczeństwo polskie w dziadach cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Streszczenie - dziady cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Czas i miejsce akcji - dziady cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Kompozycja i styl - dziady cz III.md",
-    "Gatunki literackie/Dramat romantyczny.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Tematyka - dziady cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Gatunek - dziady cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Geneza - dziady cz III.md"
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Pan Tadeusz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Zwyczaje szlacheckie i obraz polskiej szlachty - pan tadeusz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Dworek w Soplicowie jako ostoja polskości - pan tadeusz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Tematyka - pan tadeusz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Kompozycja i styl - pan tadeusz.md",
+    "Gatunki literackie/Gawęda szlachecka.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Pan Tadeusz jako epopeja narodowa - pan tadeusz.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Geneza - pan tadeusz.md"
   ]
 }

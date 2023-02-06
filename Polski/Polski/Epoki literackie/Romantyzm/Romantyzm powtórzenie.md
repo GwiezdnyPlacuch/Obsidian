@@ -17,14 +17,26 @@
 	- [[Dziady cz IV]]
 	- [[Dziady cz III]]
 		- [[Społeczeństwo polskie w dziadach cz III|Społeczeństwo polskie]]
-	- [[Adam Mickiewicz 'Pan Tadeusz'|Pan Tadeusz]]
-2. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
-3. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
-4. Z. Krasiński “Nie-Boska Komedia” (R)
-5. A. Fredro “Zemsta”
-6. Cechy literatury romantycznej
-7. [[Filomaci i filareci]]
-8. Kontynuacje i nawiązania, motywy, teksty kultury
+		- [[Elementy fantastyczne - dziady cz III|Elementy fantastyczne]]
+		- [[Rola Ustępu - dziady cz III|Rola Ustępu]]
+		- [[Najważniejsze problemy - dziady cz III|Najważniejsze problemy]]
+		- [[Portret matki - pani Rollison - dziady cz III|Portret matki - pani Rollison]]
+		- [[Obraz władcy - pomnik Piotra Wielkiego - dziady cz III|Obraz władcy - pomnik Piotra Wielkiego]]
+	- [[Pan Tadeusz|Pan Tadeusz]]
+		- [[Geneza - pan tadeusz|Geneza]]
+		- [[Pan Tadeusz jako epopeja narodowa - pan tadeusz|Pan Tadeusz jako epopeja narodowa]]
+		- [[Dworek w Soplicowie jako ostoja polskości - pan tadeusz|Dworek w Soplicowie jako ostoja polskości]]
+		- [[Zwyczaje szlacheckie i obraz polskiej szlachty - pan tadeusz|Zwyczaje szlacheckie i obraz polskiej szlachty]]
+		- [[Perypetie miłosne - pan tadeusz|Perypetie miłosne]]
+		- Jacek Soplica jako nowy typ bohatera romantycznego.
+		- Motywy i komentarze - "Pan Tadeusz".
+1. Twórczość J. Słowackiego: “Rozłączenie”, “Grób Agamemnona”, “Hymn (Smutno mi, Boże!)”, “Testament mój”, “Kordian” (R)
+2. Twórczość C. K Norwida “Pióro”, “Moja Piosenka”, “Klaskaniem mając obrzękłe prawice…”,”Coś ty Atenom zrobił, Sokratesie”, “Fortepian Szopena”
+3. Z. Krasiński “Nie-Boska Komedia” (R)
+4. A. Fredro “Zemsta”
+5. Cechy literatury romantycznej
+6. [[Filomaci i filareci]]
+7. Kontynuacje i nawiązania, motywy, teksty kultury
 
 8.  G. Byron "Giaur" 
 	- powieść poetycka, bohater bajroniczny
@@ -42,14 +54,7 @@
 13. A. Mickiewicz "Sonety krymskie"
 	- wędrowca w świecie natury
 	- krajobraz romantyczny
-15. Mesjanizm
-16. A. Mickiewicz "Dziady" cz. III
-	- 
-	- Elementy fantastyczne
-	- Przegląd najważniejszych treści
-	- Rola Ustępu 
-	- Portret matki - pani Rollison
-	- Obraz władcy - pomnik Piotra Wielkiego
+14. Mesjanizm
 17. J. Duda-Gracz "Wielka Emigracja"
 18. "Konrad Wallenrod"
 	- Walenrodyzm
@@ -64,4 +69,3 @@
 	- Kordian jako bohater romantyczny
 	- "Kordian" jako głos w dyskusji nad losem narodu
 	- "Kordian" jako polemika J. Słowackiego z A. Mickiewiczem
-23. Towarzystwo filomatów

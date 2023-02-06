@@ -52,4 +52,4 @@ Przykłady:
 - [[J. W. Goethe Cierpienia młodego Wertera]] Werter
 - [[G. Byron 'Giaur']] Giaur
 - [[Dziady cz IV]] Gustaw
-- [[Adam Mickiewicz 'Pan Tadeusz']] Jacek Soplica
+- [[Pan Tadeusz]] Jacek Soplica

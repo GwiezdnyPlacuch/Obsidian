@@ -14,7 +14,7 @@ Cechy irracjonalizmu:
 Przykłady w utworach:
 - [[Irracjonalizm w Romantyczności|"Romantyczność" Adama Mickiewicza]] 
 - [[Irracjonalizm w Balldaynie|"Balladyna" Juliusza Słowackiego]]
-- [[Irracjonalizm w Dziadach|"Dziady cz III" Adama Mieckiewicza]]
+- [[Elementy fantastyczne - dziady cz III|"Dziady cz III" Adama Mieckiewicza]]
 
 ### Indywidualizm
 Zasada filozofii politycznej i etyki, zgodnie z którą jednostka ludzka uznawana jest za najwyższe dobro.

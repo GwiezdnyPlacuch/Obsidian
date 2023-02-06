@@ -1,0 +1,12 @@
+##### Czym jest Ustęp?
+- Ustęp nie jest częścią dramatu, jest napisany epiką;
+- Nawiązuje do osobistych przekonań Adama Mickiewicza - nie powinniśmy patrzeć na naród Rosyjski jako na wrogów, są oni także ofiarami tyranii cara;
+- Jest pamfletem antycarskim;
+- Jest podzielony na kilka części: „Droga do Rosji”, „Przedmieścia stolicy”, „Petersburg”, „Pomnik Piotra Wielkiego”, „Przegląd wojska”, „Dzień przed powodzią petersburską 1824. Oleszkiewicz”, „Do Przyjaciół Moskali”
+- **Droga do Rosji** - kraina która jest porównywana do przedsionka piekła. Wszystko w Rosji kręci się wokół wojska. Dominują tam osoby silne i bezwzględne, całkowicie oddane carowi.
+- **Petersburg** - miasto stworzone na zachciankę cara. Miasto ma stanąć na grząskim gruncie. Aby go utwardzić zmarło wiele osób. Miasto zostało postawione "na trupach". Mickiewicz sugeruje, że miasto to zostało wybudowane przez szatana.
+  W tej części Mickiewicz pokazuje, że to car dyktuje modę. Traktuje on ludzi jak przedmioty. Przez cały Ustęp car pokazywany jest jak istota nieludzka. 
+- **Pomnik Piotra Wielkiego** - przy pomniku spotyka się dwóch mężczyzn - wieszcz ruskiego narodu i polski zesłaniec. W fragmencie tym zestawione są dwa pomniki: Piotra Wielkiego i Marka Aureliusza. Pomnik Piotra Wielkiego ukazuje tyranię cara: pomnik jest ogromny, podkreśla wyższość cara nad poddanymi, a poza konia przypomina konia tratującego ludzi. Porównanie pomnika Piotra Wielkiego z pomnikiem Marka Aureliusza jest celowe - pokazuje tyranię cara. Pomnik Marka Aureliusza pokazuje dobrego władcę. Koń jest spokojny, dostojny. Władca budzi respekt.
+- **Przegląd wojska** - car dokonuje przeglądu wojska, bez powodu, ma taką ochotę. Na dworze jest ogromny mróz, żołnierze stojąc na nim umierają. Żołnierze dostają dzikie konie i spadają oni z nich. Ludzie traktowani są gorzej od przedmiotów. Car przedstawiony jest jako okrutnik.
+- **Dzień przed powodzią petersburską 1824. Oleszkiewicz** - zapowiedź powodzi - nawiązanie do biblii, gdzie powódź miała zmyć grzechy ludzi. Jest to ostrzeżenie dla cara.
+- **Do Przyjaciół Moskali** - ukazuje niejednoznaczny obraz społeczeństwa rosyjskiego. Są tacy którzy walczą z carem, są oni skazywani na śmierć lub zsyłani na Syberię. Są także tacy, którzy stoją po stronie cara dla korzyści majątkowych i dla rozgłosu.
