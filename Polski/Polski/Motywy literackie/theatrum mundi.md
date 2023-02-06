@@ -1,0 +1,3 @@
+**Theatrum Mundi** ([łac.](https://pl.wikipedia.org/wiki/%C5%81acina "Łacina") „teatr świata”) – topos, który przedstawia świat jako scenę i żyjących w nich ludzi jako aktorów, którzy odgrywają w nim swoje role. Bóg w toposie jest reżyserem, jak i sędzią, który kontroluje życie człowieka, niczym marionetką[[1]](https://pl.wikipedia.org/wiki/Theatrum_Mundi#cite_note-1)[[2]](https://pl.wikipedia.org/wiki/Theatrum_Mundi#cite_note-2).
+
+Topos ukazuje kruchość i marność życia ludzi, których los zależny jest wyłącznie od Boga.
