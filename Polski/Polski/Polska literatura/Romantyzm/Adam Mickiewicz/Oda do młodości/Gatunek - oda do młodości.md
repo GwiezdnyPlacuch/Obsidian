@@ -7,7 +7,7 @@ Cechy oświeceniowe:
 - utylitaryzm
 - wiara w możliwości udoskonalenia świata przez człowieka
 - forma utworu (oda)
-- 
+
 Cechy romantyczne:
 -   odwoływanie się do sfery emocji, zachęcanie do kierowania się nimi
 -   pojęcie _świata ducha_

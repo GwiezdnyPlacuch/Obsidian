@@ -15,7 +15,7 @@
 -   Zwoływanie sejmików szlacheckich
 -   Śpiewanie patriotycznych pieśni
 
-Obraz szlachty w „Panu Tadeuszu” podlega widocznej idealizacji. Polega ona nie tylko na tym, że ukazuje się Soplicowo jako raj utracony, „centrum Polszczyzny”, gdzie przestrzega się wszystkich zasad etykiety i szlacheckiego obyczaju, idealizacja szlachty uwidacznia się również w tych momentach, gdzie przedstawia się sceny bójek i pojedynków. Warcholstwo polskiej szlachty zostaje tu niejako ujęte w cudzysłów, staje się wręcz barwnym urozmaiceniem spokojnego życia w szlacheckim dworze i na pewno nie burzy optymistycznego nastroju „Pana Tadeusza”. Nawet tak przerażająca postać jak Gerwazy ze swoim groźnym Scyzorykiem ma tu swoje miejsce i swój niewątpliwy urok. 
+Obraz szlachty w „Panu Tadeuszu” podlega widocznej idealizacji. Polega ona nie tylko na tym, że ukazuje się Soplicowo jako raj utracony, „centrum Polszczyzny”, gdzie przestrzega się wszystkich zasad etykiety i szlacheckiego obyczaju. Idealizacja szlachty uwidacznia się również w tych momentach, gdzie przedstawia się sceny bójek i pojedynków. Warcholstwo polskiej szlachty zostaje tu niejako ujęte w cudzysłów, staje się wręcz barwnym urozmaiceniem spokojnego życia w szlacheckim dworze i na pewno nie burzy optymistycznego nastroju „Pana Tadeusza”. Nawet tak przerażająca postać jak Gerwazy ze swoim groźnym Scyzorykiem ma tu swoje miejsce i swój niewątpliwy urok. 
 
 Szlachta w "Panu Tadeuszu” jest bardzo zróżnicowana, pojawia się wśród niej:
 1. Magnateria: ród Horeszków (Stolnik, Ewa, Zosia, Hrabia)

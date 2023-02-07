@@ -1,0 +1,1 @@
+ogląd filozoficzno-religijny (niekiedy teologiczny) utożsamiający wszystko z bogiem (lub absolutem). Neguje istnienie boga osobowego, głosi zaś przenikanie absolutu we wszystkie substancje jakie istnieją. Panteizm często łączył się z ideami rozumnego rozwoju wszechświata, jedności, wieczności oraz żywości świata materialnego.

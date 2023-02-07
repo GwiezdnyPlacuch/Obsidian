@@ -1,0 +1,3 @@
+*Kordian* jest odpowiedzą na *Dziady* i próbą poetyckiej rywalizacji z ich sławnym autorem. Utwór Mickiewicza przyniósł negatywny obraz doktora Bécu, ojczyma Słowackiego, jako zausznika carskiej władzy. Zawarta w *Kordianie* polemika z Mickiewiczem wynikała także z różnej diagnozy sytuacji Polaków po upadku powstania listopadowego i odmiennej wizji działania na rzecz niepodległości.
+
+Dobitnie poglądowi Mickiewicza głoszącemu ideę „Polska Chrystusem narodów” przeciwstawia się Słowacki w monologu Kordiana na Mont Blanc. Przechodzący wewnętrzną przemianę główny bohater konstruuje tezę „Polska Winkelriedem narodów”

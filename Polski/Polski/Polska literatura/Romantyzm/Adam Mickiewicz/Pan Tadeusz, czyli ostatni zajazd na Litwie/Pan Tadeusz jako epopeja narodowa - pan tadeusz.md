@@ -5,4 +5,4 @@
 - rozpoczyna się od inwokacji;
 - charakteryzuje się podniosłym, wysokim stylem, rozbudowanymi porównaniami homeryckimi;
 - zawiera szczegółowe, realistyczne opisy ważnych przedmiotów (np. opis porcelanowego serwisu zdobionego scenami z życia szlachty);
-- oprócz perypetii indywidualnych postaci przedstawia dzieje bohatera zbiorowego na tle historii - polskiej szlachty w ważnym okresie narodowych i społecznych zmian związanych z kampanią napoleońską i zniesieniem pańszczyzny
+- oprócz perypetii indywidualnych postaci przedstawia dzieje bohatera zbiorowego na tle historii - polskiej szlachty w ważnym okresie narodowym i społecznych zmian związanych z kampanią napoleońską i zniesieniem pańszczyzny
