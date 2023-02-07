@@ -1,0 +1,1 @@
+Wiersz powstał prawdopodobnie w latach 1839-1840, ale został opublikowany dopiero kilka lat po śmierci poety.

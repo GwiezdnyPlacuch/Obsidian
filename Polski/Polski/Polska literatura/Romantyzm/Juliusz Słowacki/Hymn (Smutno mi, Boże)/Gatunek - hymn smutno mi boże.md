@@ -1,0 +1,1 @@
+Utwór jest hymnem, a więc gatunkiem należącym przede wszystkim do poezji religijnej. Hymn, skierowany najczęściej do Boga lub Matki Boskiej, stanowił wzniosłą formę wyrażania zbiorowych przeżyć i emocji. Słowacki odszedł od gatunkowych konwencji i uczynił podmiotem mówiącym jednostkę, która wyraża swoje subiektywne uczucia i refleksje nad ludzkim losem.

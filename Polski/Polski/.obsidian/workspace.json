@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "46717ea4e0a997d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Hymn (Smutno mi, Boże!).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b130ec0c3d8dcabc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Geneza - hymn smutno mi boże.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Geneza - hymn smutno mi boże.md",
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Geneza - hymn smutno mi boże.md",
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Geneza - hymn smutno mi boże.md"
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md"
               }
             }
           }
@@ -173,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b130ec0c3d8dcabc",
+  "active": "7f5a102d7472636b",
   "lastOpenFiles": [
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Hymn (Smutno mi, Boże!).md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Testament mój.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Najważniejsze problemy - testament mój.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Kompozycja i styl - testament mój.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Geneza - testament mój.md",
+    "Motywy literackie/exegi monumentum.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Grób Agamemnona/Grób Agamemnona.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Grób Agamemnona/Najważniejsze problemy - grób agamemnona.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Geneza - dziady cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Dziady cz III/Dziady cz III.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Geneza - pan tadeusz.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Pan Tadeusz, czyli ostatni zajazd na Litwie/Pan Tadeusz.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Romantyczność/Adam Mickiewicz 'Romantyczność'.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Grób Agamemnona/Geneza - grób agamemnona.md"
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Juliusz Słowacki.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Hymn (Smutno mi, Boże!).md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Najważniejsze problemy - hymn smutno mi boże.md",
+    "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Gatunek - hymn smutno mi boże.md"
   ]
 }

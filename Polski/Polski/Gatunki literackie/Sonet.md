@@ -2,4 +2,4 @@ Utwór czternastowersowy o stałej budowie, składający się z dwóch strof czt
 
 Przykłady:
 - [[Mikołaj Sęp Szarzyński 'O nie trwałej miłości rzeczy świata tego...']]
-- [[Adam Mickiewicz 'Sonety krymskie']]
+- [[Sonety Krymskie]]

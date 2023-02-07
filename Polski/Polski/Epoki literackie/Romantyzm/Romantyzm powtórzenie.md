@@ -13,7 +13,7 @@
 9. [[Adam Mickiewicz]]
 	- [[Oda do młodości]]
 	- [[Adam Mickiewicz 'Romantyczność'|Romantyczność]]
-	- [[Adam Mickiewicz 'Sonety Krymskie'|Sonety krymskie]]
+	- [[Sonety Krymskie|Sonety krymskie]]
 	- [[Reduta Ordona]]
 	- Liryki lozańskie
 	- [[Dziady cz II]]
@@ -28,7 +28,7 @@
 	- [[Rozłączenie]]
 	- [[Grób Agamemnona]]
 	- [[Hymn (Smutno mi, Boże!)]]
-	- Testament mój
+	- [[Testament mój]]
 	- Znaczenie poezji J. Słowackiego.
 11. C. K Norwid 
 	- Pióro
