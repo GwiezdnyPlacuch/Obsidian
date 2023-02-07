@@ -1,0 +1,1 @@
+Utwór należy do liryki bezpośredniej i ma formę listu poetyckiego - lirycznego monologu skierowanego do nienazwanej wprost adresatki.

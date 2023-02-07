@@ -1,1 +1,1 @@
-Utwór powstał w Alpach w 1835 r., kiedy Słowacki przebywał na emigracji. Adresatką wiersza była najprawdopodobniej 
+Utwór powstał w Alpach w 1835 r., kiedy Słowacki przebywał na emigracji. Adresatką wiersza była najprawdopodobniej matka poety.

@@ -1,0 +1,1 @@
+*Hymn*, znany lepiej pod tytułem *Smutno, mi Boże...* to literackie pokłosie podróży Słowackiego na Wschód. Poeta napisał go 

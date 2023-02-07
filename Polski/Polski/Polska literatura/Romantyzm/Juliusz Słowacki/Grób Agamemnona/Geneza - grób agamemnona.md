@@ -1,0 +1,1 @@
+Podczas podróży na Wschód w 1836 r. Słowacki odwiedził zrujnowany grobowiec w pobliżu Myken,uchodzący za miejsce spoczynku mitycznego króla Agamemnona.
