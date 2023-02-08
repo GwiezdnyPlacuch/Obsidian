@@ -2,7 +2,7 @@
 2. [[Ballada|Gatunek]]
 3. [[Tematyka - ballady i romanse|Tematyka]]
 4. [[Najważniejsze problemy - ballady i romanse|Najważniejsze problemy]]
-5. [[Adam Mickiewicz 'Romantyczność']]
+5. [[Romantyczność]]
 6. [[Adam Mickiewicz 'Świtezianka']]
 7. [[Adam Mickiewicz 'Lilie']]
 8. [[Adam Mickiewicz 'Świteź']]

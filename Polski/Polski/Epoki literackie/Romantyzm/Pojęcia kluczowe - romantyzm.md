@@ -21,7 +21,7 @@ Zasada filozofii politycznej i etyki, zgodnie z którą jednostka ludzka uznawan
 Twórcy romantyczni wprowadzili kult indywidualności, niepowtarzalnej jednostki. Wierzyli, że wybitna osobowość - wielki przywódca, genialny artysta czy obdarzony zdolnością prorokowania poeta - jest w stanie przeniknąć tajemnice natury, historii i ludzkiego przeznaczenia.
 
 Przykłady w utworach:
-- [[Indywidualista buntujący się przeciwko światu|"Cierpienia młodego Wertera" J. W. Goethe]]
+- [[Cierpienia młodego Wertera|"Cierpienia młodego Wertera" J. W. Goethe]]
 - [[Indywidualizm w Fauście|"Faust" J. W. Goethe]]
 - [[Romantyczny indywidualizm Giaura|"Giaur" G. Byron]]
 
@@ -31,7 +31,7 @@ Romantyczni poeci uważali naturę z organiczną całość, nieustannie stając�
 Przykłady w utworach:
 - [[Obraz natury - świtezianka|"Świtezianka" Adama Mickiewicza]]
 - [[Obraz przyrody|"Pan Tadeusz" Adama Mickiewicza]]
-- [[Lustro duszy Wertera - przyroda|"Cierpienia młodego Wertera" J. W. Goethe]]
+- [[Przyroda - cierpienia młodego wertera|"Cierpienia młodego Wertera" J. W. Goethe]]
 
 ### Naród
 Pod wpływem rewolucji francuskiej ukształtowało się nowoczesne pojęcie narodu, czyli wspólnoty połączonej podobnymi tradycjami, obyczajami, wyobrażeniami i wartościami.  Istoty charakteru narodowego poszukiwano w odległej przeszłości, najczęściej w średniowieczu.

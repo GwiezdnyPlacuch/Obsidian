@@ -20,8 +20,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "afad7d947611c358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/C K Norwid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23f324f56900895a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md"
+                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md"
               }
             }
           }
@@ -148,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f5a102d7472636b",
+  "active": "23f324f56900895a",
   "lastOpenFiles": [
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Testament mój.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Najważniejsze problemy - testament mój.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Kompozycja i styl - testament mój.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Testament mój/Geneza - testament mój.md",
-    "Motywy literackie/exegi monumentum.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/C K Norwid.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
+    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Cierpienia młodego Wertera/Przyroda - cierpienia młodego wertera.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Juliusz Słowacki.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Hymn (Smutno mi, Boże!).md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Najważniejsze problemy - hymn smutno mi boże.md",
-    "Polska literatura/Romantyzm/Juliusz Słowacki/Hymn (Smutno mi, Boże)/Gatunek - hymn smutno mi boże.md"
+    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Cierpienia młodego Wertera/Cierpienia młodego Wertera.md",
+    "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
+    "Gatunki literackie/Gawęda szlachecka.md",
+    "Epoki literackie/Romantyzm/Typy bohaterów - romantyzm.md",
+    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Romantyczność/Romantyczność.md",
+    "Gatunki literackie/Powieść epistolarna.md"
   ]
 }

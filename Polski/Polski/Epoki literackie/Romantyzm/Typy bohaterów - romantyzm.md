@@ -14,7 +14,7 @@ Przykłady:
 
 Przykłady:
 - [[Dziady cz IV]] Gustaw
-- [[J. W. Goethe Cierpienia młodego Wertera]] Werter
+- [[Cierpienia młodego Wertera]] Werter
 
 ### Spiskowiec
 - ukrywa prawdziwą tożsamość
@@ -39,7 +39,7 @@ Przykłady:
 - obcuje z duchami
 
 Przykłady:
-- [[Adam Mickiewicz 'Romantyczność']] Karusia
+- [[Romantyczność]] Karusia
 - [[Dziady cz IV]] Gustaw
 
 ### Bohater romantyczny
@@ -49,7 +49,7 @@ Przykłady:
 - Często samotny, niezrozumiały i nieakceptowany przez społeczeństwo
 
 Przykłady:
-- [[J. W. Goethe Cierpienia młodego Wertera]] Werter
+- [[Cierpienia młodego Wertera]] Werter
 - [[G. Byron 'Giaur']] Giaur
 - [[Dziady cz IV]] Gustaw
 - [[Pan Tadeusz]] Jacek Soplica

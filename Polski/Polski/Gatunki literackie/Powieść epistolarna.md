@@ -1,0 +1,1 @@
+ powieść skonstruowana w formie listów (niekiedy przeplatających się z fragmentami pamiętnika), wymienianych między sobą przez bohaterów. 

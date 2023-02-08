@@ -1,0 +1,13 @@
+W powieści o Werterze „zamknięta jest cała młodość autora” (O. Witczakowa). Na genezę utworu ogromny wpływ mają zdarzenia z osobistego życia pisarza. Szczególnie ważny jest pobyt w Strasburgu, gdzie Goethe poznaje bliżej Johanna Gottfrieda Herdera. To pod jego wpływem młody pisarz zainteresuje się Homerem, Szekspirem, _Pieśniami Osjana_, _Biblią_ i pieśnią ludową. W Wetzlarze z kolei Goethe chętnie uczestniczy w życiu towarzyskim. Poznaje tam, zaręczoną z Johannem Kestnerem, Charlottę Buff. Pierwotne oczarowanie młodą dziewczyną przeradza się w głębokie uczucie. Czar jednak szybko pryska, kiedy Johann Wolfgang uświadamia sobie, że jest sprawcą zamieszania w życiu Charlotty. Kiedy ryzyko poważnego konfliktu staje się coraz większe, Goethe bez pożegnania wyjeżdża do Frankfurtu. Kestner przejęty jego decyzją odejścia, uznaje to za dowód ogromnej uczciwości i przyjaźni, proponuje utrzymać kontakt listowny.
+
+Śmierć przyjaciółki, Henrietty von Roussillon, uznaje Goethe za doświadczenie szczególnie bolesne. Przychodzą wtedy głębsze refleksje nad sensem życia i śmiercią. Rok później zaskakuje go jeszcze wiadomość, że Maksymiliana von La Roche, 18-letnia dziewczyna, którą Goethe też darzył uczuciem, wyszła za mąż. To jej właśnie pierwszej pisarz napomknął o pomyśle napisania książki.
+
+**Samobójcza śmierć Carla Wilhelma Jerusalema**
+
+Goethe dobrze znał Jerusalema. Wiadomość o jego śmierci wstrząsnęła młodym pisarzem. Okazuje się, że Jerusalem, pod pretekstem zabezpieczenia się podczas podróży, pożyczył pistolet od Kestnera. Postrzelił się w głowę, ale nie zginął od tego strzału, ranny umierał dość długo. Ubrany był w niebieski frak i żółtą kamizelkę. Pochowany został przed północą, a na pogrzebie nie było księdza.
+
+**Wpływ Kestnerów na ostateczny kształt powieści**
+
+W liście do Kestnerów z 16 czerwca 1774 r. Goethe napisze: „wkrótce przyślę wam przyjaciela, który wykazuje wiele podobieństwa do mnie; mam nadzieję, że dobrze go przyjmiecie – nazywa się Werter”. Po pierwszej lekturze powieści Kestnerowie nie kryli swojego niezadowolenia z przedstawienia, a raczej uszczegółowienia pewnych faktów, w świetle których nie wypadają dobrze. Poza tym, zbyt dużo jest zbieżności faktograficznych, co może narazić ich na przykre dla nich insynuacje ze strony bardziej lub mniej znajomych. Goethe obiecał usunąć to, co mogło budzić ich sprzeciw.
+
+W 1774 r. czyli w dwa lata od przyjazdu do Wetzlaru _Cierpienia młodego Wertera_ znalazły się w rękach czytelników.

@@ -1,0 +1,11 @@
+Wielką rolę w historii Wertera odgrywa przyroda, która wydaje się odgrywać znaczący wpływ na stan emocjonalny bohatera Goethego. Wiosną Werter zakochuje się w Lotcie, latem jego miłość rozkwita. Kiedy przychodzi jesień, bohater pogrąża się w marazmie i cierpieniu. Wraz z tym, jak za oknem przyroda powoli szarzeje, ogarniają go coraz większe udręki. Zimą popełnia samobójstwo. Jego życie i śmierć są więc nierozerwalnie związane z naturą.
+
+Werter miał zmienne poglądy co do natury. Raz widział ją w przeróżnych barwach. Jednak po wielu zmianach, jego spostrzeganie zaczęło się zmieniać. Wszystko kojarzyło mu się dziwnie, jakby źle. Werter naturę opisywał w mrocznych kolorach,. Pisał, że natura mu w niczym nie pomaga. To tylko element całej nieznaczącej nic układanki. Nawet najpiękniejsze widoki nie były w stanie go usatysfakcjonować. Nic nie działało na niego, jakby odeszła od niego całkowita wrażliwość i optymistyczny pogląd na świat.
+
+Stosunek bohatera do przyrody zmienia się wraz z upływem czasu. Werter popadając w coraz większą miłość do Loty, będąc nieszczęśliwym, zmienia swoje spojrzenie na świat. Zauważamy to w liście z 3 listopada. Spojrzenie na naturę i jej odbieranie jest całkiem różne od wcześniejszych, poeta krytykuje ją tutaj za niezmienność:
+>*...o, gdy ta wspaniała natura tak drętwa leży przede mną jak polakierowany obrazek, cała ta rozkosz nie może z serca mego przelać ani kropli szczęścia do mego mózgu.*
+
+Werter próbuje ją tutaj określić jako nie znaczącą dla człowieka i nie mogącą wpłynąć na jego złe samopoczucie i zatroskanie. Już w jednym z wcześniejszych listów z dnia 18 sierpnia bohater określa naturę jako potwora:
+>*Niebo i ziemia, i wszystkie twórcze siły otaczają mnie! Nie widzę nic nad wiecznie połykającego, wiecznie przeżuwającego potwora*
+
+Te różniące się refleksje i odczucia są odbiciem zmieniających się ciągle stanów emocjonalnych poety. Od momentu spotkania Loty diametralnie zmienia się jego życie. Staje się człowiekiem ogarniętym miłością. Rozpamiętywanie jej i świadomość, iż ślub i możliwość wspólnego życia z Lottą oddalają się, a w końcu stają się niemożliwe prowadzi do pogłębienia tej miłości. Werter mówiąc o swoich doznaniach poświęca uwagę w głównej mierze sobie, własnym emocjom, doznaniom. Na nich koncentruje się jego świat. Cała dusza bohatera jest przepełniona postacią Loty.

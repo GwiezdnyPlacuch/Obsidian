@@ -12,7 +12,7 @@
 	- [[Sonet]]
 9. [[Adam Mickiewicz]]
 	- [[Oda do młodości]]
-	- [[Adam Mickiewicz 'Romantyczność'|Romantyczność]]
+	- [[Romantyczność|Romantyczność]]
 	- [[Sonety Krymskie|Sonety krymskie]]
 	- [[Reduta Ordona]]
 	- Liryki lozańskie
@@ -29,8 +29,7 @@
 	- [[Grób Agamemnona]]
 	- [[Hymn (Smutno mi, Boże!)]]
 	- [[Testament mój]]
-	- Znaczenie poezji J. Słowackiego.
-11. C. K Norwid 
+11. [[C K Norwid]]
 	- Pióro
 	- Moja Piosenka
 	- Klaskaniem mając obrzękłe prawice…
@@ -42,14 +41,8 @@
 	- Zemsta
 14. J. Duda-Gracz
 	- Wielka Emigracja
-15. J. W. Goethe
-	- Cierpienia młodego Wertera
-		- geneza utworu
-		- wątki autobiograficzne.
-		- Bohater werteryczny
-		- powieść w listach
-		- O. Witczakowa "Werter i werteryzm" 
-		- Znaczenie utworu
+15. [[J W Goethe]]
+	- [[Cierpienia młodego Wertera]]
 	- Wolność wiodąca lud na barykady
 	- Król olch
 	- Faust

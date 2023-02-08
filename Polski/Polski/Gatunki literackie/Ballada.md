@@ -13,4 +13,4 @@ Cechy:
 - historyzm - nawiązania do przeszłości, zwłaszcza do średniowiecza
 
 Przykłady w utworach:
-- [[Adam Mickiewicz 'Romantyczność']]
+- [[Romantyczność]]
