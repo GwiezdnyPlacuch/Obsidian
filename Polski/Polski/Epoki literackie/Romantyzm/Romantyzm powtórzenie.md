@@ -30,8 +30,8 @@
 	- [[Hymn (Smutno mi, Boże!)]]
 	- [[Testament mój]]
 11. [[C K Norwid]]
-	- Pióro
-	- Moja Piosenka
+	- [[Pióro]]
+	- [[Moja piosnka]]
 	- Klaskaniem mając obrzękłe prawice…
 	- Coś ty Atenom zrobił, Sokratesie
 	- Fortepian Szopena
@@ -47,7 +47,6 @@
 	- Król olch
 	- Faust
 		- nowa forma dramatyczna
-16. G. Byron
-	- Giaur
-		- powieść poetycka, bohater bajroniczny
+16. [[G. Byron]]
+	- [[Giaur]]
 17. Kontynuacje i nawiązania, motywy, teksty kultury

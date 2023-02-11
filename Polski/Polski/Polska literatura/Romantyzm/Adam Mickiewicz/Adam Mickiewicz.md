@@ -1,2 +1,8 @@
 1. [[Ballady i romanse - wybrane ballady]]
 2. [[Oda do młodości ]]
+3. [[Sonety Krymskie]]
+4. [[Reduta Ordona]]
+5. [[Dziady cz II]]
+6. [[Dziady cz IV]]
+7. [[Dziady cz III]]
+8. [[Pan Tadeusz]]

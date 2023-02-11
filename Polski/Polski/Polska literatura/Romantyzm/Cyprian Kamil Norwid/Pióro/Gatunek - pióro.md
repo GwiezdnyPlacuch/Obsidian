@@ -1,0 +1,1 @@
+Wiersz jest artystyczną i ideową deklaracją poety. Na przynależność do poezji programowej wskazuje m.in. motto zaczerpnięte z poematu George'a Byrona *Beppo* - mowa w nim o twórcy, który nie zważając na niechętne opinie krytyków, upiera się przy swoich *kalamburach*. 

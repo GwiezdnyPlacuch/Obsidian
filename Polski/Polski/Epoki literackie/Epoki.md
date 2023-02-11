@@ -7,5 +7,5 @@
 7. [[Pozytywizm powtórzenie|Pozytywizm]]
 8. [[Młoda Polska powtórzenie|Młoda Polska]]
 9. [[Dwudziestolecie międzywojenne powtórzenie|Dwudziestolecie międzywojenne]]
-10. Wojna i okupacja
-11. Współczesność
+10. [[Wojna i okupacja]]
+11. [[Współczesność]]

@@ -1,0 +1,9 @@
+• Wątek nieszczęśliwej miłości – nie znamy perspektywy Leili, natomiast z wypowiedzi Giaura można domyślać, że była to miłość odwzajemniona, której na drodze do szczęścia stanęło społeczeństwo, przekonania, zakazy, inni ludzie. Hassan nie jest tutaj przedstawiony jako szalejący mąż, a egzekutor prawa, które nakazuje mu zabić żonę za niewierność. Giaur w spowiedzi podkreśla wielkie cierpienie i samotność, jaką spowodowała utrata Leili, jednocześnie jednak wskazując, że te krótkie chwile z ukochaną były wstępem do raju. Taki sposób postrzegania miłości będzie dominował o wielu romantycznych twórców. 
+
+• Wątek samotności – Giaur to opowieść o człowieku, który przez większość życia czuje się samotny, opuszczony, nierozumiany przez świat, wiecznie obcy wśród innych. Giaur jest obcy pod względem swojego pochodzenia, wyznawanej religii, w końcu obcym czynią go jego wybory.
+
+• Wątek wolności jednostki – Giaur to symbol bezkompromisowości. Gotowy jest najpierw walczyć o swoje szczęście, a potem pomścić jego utratę. Uosabia konflikt jednostki ze społeczeństwem.
+
+• Wątek różnic kulturowych – Byron w genialny sposób w romansowej fabule zamknął problematykę zupełnie nieprzekładalnych na siebie perspektyw człowieka Zachodu i Wschodu, nie tylko religijnych, ale związanych z tradycją, poczuciem honoru czy rozumieniem moralności. 
+
+Warto pamiętać także o sposobie przedstawienia samej Grecji przez Byrona. Ważne są tutaj opisy przyrody, architektury, strojów i zachowań bohaterów. Byron przywiązywał wiele uwagi do tego, aby oddać tzw. koloryt lokalny Grecji. W tamtym okresie, dla Europejczyków, Grecja stanowiła bowiem już synonim Wschodu, Orientu, którym przecież twórcy romantyczni byli zafascynowani. Tak jak Mickiewicz w Sonetach krymskich posługuje się obco brzmiącymi wyrażeniami, tak robi to Byron w Giaurze. Już sam tytuł, odwołujący się do określenia niewiernego przez muzułmanów wyraźnie na taką tendencję opisu wskazuje. 

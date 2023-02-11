@@ -1,0 +1,1 @@
+Dżuma ukazała się w 1947 r. i przyniosła autorowi światową popularność - jest współczesną powieścią stylizowaną na kronikę i ma cechy paraboli: opowiada o epidemii dżumy oraz różnych postawach ludzi w obliczu zarazy.

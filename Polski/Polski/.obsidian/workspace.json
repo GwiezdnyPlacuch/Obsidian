@@ -22,31 +22,18 @@
             }
           },
           {
-            "id": "afad7d947611c358",
+            "id": "5569e344fbb147db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/C K Norwid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23f324f56900895a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
+                "file": "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Giaur.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 273.5
   },
   "right": {
     "id": "0afd3453dd5abd35",
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md"
+                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md"
               }
             }
           }
@@ -173,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23f324f56900895a",
+  "active": "7f5a102d7472636b",
   "lastOpenFiles": [
-    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/C K Norwid.md",
-    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Pióro/Pióro.md",
-    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Cierpienia młodego Wertera/Przyroda - cierpienia młodego wertera.md",
+    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Giaur.md",
+    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Najważniejsze problemy - giaur.md",
+    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Treść - giaur.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Cierpienia młodego Wertera/Cierpienia młodego Wertera.md",
-    "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
-    "Gatunki literackie/Gawęda szlachecka.md",
+    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Bohater bajroniczny - giaur.md",
     "Epoki literackie/Romantyzm/Typy bohaterów - romantyzm.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Romantyczność/Romantyczność.md",
-    "Gatunki literackie/Powieść epistolarna.md"
+    "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
+    "Gatunki literackie/Powieść poetycka.md",
+    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Gatunek - giaur.md",
+    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Romantyczny indywidualizm Giaura.md"
   ]
 }

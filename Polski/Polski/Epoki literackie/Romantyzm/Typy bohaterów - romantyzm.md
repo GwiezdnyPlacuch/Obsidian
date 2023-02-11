@@ -30,7 +30,7 @@ Przykłady:
 - buntuje się przeciwko Bogu
 
 Przykłady:
-- [[G. Byron 'Giaur']] Giaur
+- [[Giaur]] Giaur
 - [[Dziady cz IV]] Gustaw
 
 ### Szaleniec
@@ -50,6 +50,6 @@ Przykłady:
 
 Przykłady:
 - [[Cierpienia młodego Wertera]] Werter
-- [[G. Byron 'Giaur']] Giaur
+- [[Giaur]] Giaur
 - [[Dziady cz IV]] Gustaw
 - [[Pan Tadeusz]] Jacek Soplica

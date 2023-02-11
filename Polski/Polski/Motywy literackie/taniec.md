@@ -1,0 +1,17 @@
+Taniec może być traktowany jako forma rozrywki, popis artystyczny lub obrzęd. W literaturze odnajdujemy motyw tańca od Biblii aż do czasów współczesnych. Najczęściej taniec opisywany w literaturze ma charakter symboliczny.  
+
+##### Adam Mickiewicz Pan Tadeusz  
+Poeta daje opis ostatniego poloneza, którego bohaterowie tańczą przed wymarszem z Litwy wojsk napoleońskich. Taniec oznacza tutaj odejście pewnej epoki, symbolizuje dawne wartości, świat, kulturę – traktowane jako relikt przeszłości. Podkomorzy jest już ostatnim, który „tak poloneza wodzi”. Dowodzi to faktu, że Mickiewicz sportretował społeczność u progu ważnych zmian. Taniec ukazuje tu zatem historyczny krok, bohaterowie przechodzą tanecznym krokiem do innej epoki, w której obowiązywać będzie już zupełnie odmienna hierarchia wartości. Narodowy polski taniec służy tu podkreśleniu chęci kontynuowania wielkiej szlacheckiej tradycji w nowej rzeczywistości, zarazem zwracając uwagę na to, że będzie to już niemożliwe.  
+
+##### Władysław Reymont Chłopi – wesele Boryny  
+Tańce wykonywane podczas wesela są radosne, żywiołowe: to mazurki, oberki, kujawiaki. Odświętnie ubrani uczestnicy wesela – dzięki czemu mamy barwny, malarski opis elementów stroju ludowego – żywiołowo, dynamicznie tańczą, popadają niemalże w trans, tworzą jakby oddzielny organizm, zamieniają się w żywioł natury. W tym obrazie tańca możemy się doszukiwać symbolu witalności chłopów. Taniec symbolizuje weselna tradycje/obyczaje  
+
+##### Stanisław Wyspiański Wesele – scena końcowa  
+Bohaterowie dramatu Wyspiańskiego zostają w ostatnich fragmentach dzieła porwani do tańca. Chocholi taniec jest symbolicznym przedstawieniem marazmu, zniechęcenia, braku aktywności życiowej. W perspektywie narodowej chodzi tu o ukazanie Polaków i ich stosunku wobec zrywu powstańczego. Bohaterowie, krocząc niemal jak w transie w rytm melodii wygrywanej przez Chochoła, pozostają niezdolni do jakiegokolwiek działania. Podobnie przedstawia się społeczeństwo polskie, podzielone, zniechęcone, zajęte prywatą i egoizmem. W utworze pokazany jest także taniec Państwa Młodych, będący nie tyle wyrazem zbliżenia się do siebie przedstawicieli dwóch warstw społecznych, co popularnej w epoce ludomanii, traktowanej bardziej jako moda obyczajowa.  
+
+##### Sławomir Mrożek Tango – scena końcowa
+Tytułowe tango kończy dramat. Prymitywny Edek, który zyskuje pełnię władzy nad inteligentami, zmusza do tańca Eugeniusza – przedstawiciela rodziny z tradycjami, który dostosowuje się do nowej sytuacji. Edek tańczy boso, w rytm najbardziej popularnego tanga La cumparsita. Tango jest obrachunkiem z inteligencją, która w imię całkowitej wolności doprowadziła do rozpadu dotychczasowych wartości i w ten sposób utorowała drogę do władzy brutalnej sile. Ten taniec to obraz nowej sytuacji politycznej – pozornej zgody narodowej, ten, kto prowadzi w tym tangu, będzie prowadził i w życiu.  
+
+##### Rozmowa Mistrza Polikarpa ze Śmiercią  
+Utwór ten podejmuje charakterystyczny dla epoki średniowiecza motyw danse macabre – tańca śmierci. Spersonifikowana Śmierć w postaci szkieleta porywa tu do tanecznego korowodu wszystkich ludzi, nie zważając na różnice, jakie ich dzielą.  
+Ten taniec ukazuje bowiem, jak naiwne byłoby myślenie, że nas śmierć nie spotka. Na koniec warto dostrzec, że w epoce średniowiecza motyw ten pełnił także ważną rolę dydaktyczną. Przestrzegał mianowicie człowieka przed tym, by nie ulegał za bardzo pokusom korzystania z uroków doczesnego życia, zapominając o nieuchronności jego końca.

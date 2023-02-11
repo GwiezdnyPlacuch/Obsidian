@@ -1,0 +1,1 @@
+Utwór należy do liryki bezpośredniej. Tytułowe określenie *piosnka* nie nawiązuje do nazwy gatunku (pieśni), ale podkreśla intymny, prywatny charakter lirycznego wyznania.
