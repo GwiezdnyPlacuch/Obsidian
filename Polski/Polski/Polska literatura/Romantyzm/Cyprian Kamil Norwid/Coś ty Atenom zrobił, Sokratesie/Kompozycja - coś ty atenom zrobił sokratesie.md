@@ -1,0 +1,1 @@
+Utwór został podzielony na dwie części wyraźnie różniące się tematyką, wersyfikacją i stylem. Pierwsza część składa się z siedmiu strof mających formę pytań retorycznych, a druga ma charakter uogólniającej refleksji skierowanej prawdopodobnie do Adama Mickiewicza.

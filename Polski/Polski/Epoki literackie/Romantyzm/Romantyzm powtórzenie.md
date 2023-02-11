@@ -32,13 +32,13 @@
 11. [[C K Norwid]]
 	- [[Pióro]]
 	- [[Moja piosnka]]
-	- Klaskaniem mając obrzękłe prawice…
-	- Coś ty Atenom zrobił, Sokratesie
-	- Fortepian Szopena
+	- [[Klaskaniem mając obrzękłe prawice]]
+	- [[Coś ty Atenom zrobił, Sokratesie]]
+	- [[Fortepian Szopena]]
 12. Z. Krasiński 
 	- Nie-Boska Komedia” (R)
-13. A. Fredro
-	- Zemsta
+13. [[A. Fredro]]
+	- [[Zemsta]]
 14. J. Duda-Gracz
 	- Wielka Emigracja
 15. [[J W Goethe]]

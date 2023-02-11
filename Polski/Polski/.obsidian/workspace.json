@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "5569e344fbb147db",
+            "id": "e0dc12027c7ec899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Giaur.md",
+                "file": "Polska literatura/Romantyzm/Aleksander Fredro/Zemsta/Zemsta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+                "file": "Polska literatura/Romantyzm/Aleksander Fredro/Zemsta/Zemsta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+                "file": "Polska literatura/Romantyzm/Aleksander Fredro/Zemsta/Zemsta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md"
+                "file": "Polska literatura/Romantyzm/Aleksander Fredro/Zemsta/Zemsta.md"
               }
             }
           }
@@ -160,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f5a102d7472636b",
+  "active": "e0dc12027c7ec899",
   "lastOpenFiles": [
-    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Giaur.md",
-    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Najważniejsze problemy - giaur.md",
-    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Treść - giaur.md",
+    "Polska literatura/Romantyzm/Aleksander Fredro/A. Fredro.md",
     "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
-    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Bohater bajroniczny - giaur.md",
-    "Epoki literackie/Romantyzm/Typy bohaterów - romantyzm.md",
-    "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
-    "Gatunki literackie/Powieść poetycka.md",
-    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Gatunek - giaur.md",
-    "Zagraniczna literatura/Romantyzm/G. Byron/Giaur/Romantyczny indywidualizm Giaura.md"
+    "Polska literatura/Romantyzm/Aleksander Fredro/Zemsta/Zemsta.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Fortepian Szopena/Fortepian Szopena.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Fortepian Szopena/Najważniejsze problemy - fortepian szopena.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Fortepian Szopena/Kompozycja i styl - fortepian szopena.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Fortepian Szopena/Geneza - fortepian szopena.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Coś ty Atenom zrobił, Sokratesie/Coś ty Atenom zrobił, Sokratesie.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Coś ty Atenom zrobił, Sokratesie/Najważniejsze problemy - coś ty atenom zrobił, sokratesie.md",
+    "Polska literatura/Romantyzm/Cyprian Kamil Norwid/Coś ty Atenom zrobił, Sokratesie/Kompozycja - coś ty atenom zrobił sokratesie.md"
   ]
 }
