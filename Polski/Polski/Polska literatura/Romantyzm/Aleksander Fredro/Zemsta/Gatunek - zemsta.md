@@ -1,0 +1,7 @@
+W *Zemście* Fredro uchwycił, podobnie jak Mickiewicz w *Panu Tadeuszu*, zmierzch epoki Rzeczypospolitej szlacheckiej, którą w utworze reprezentują Cześnik i Rejent. Jednocześnie dorasta młode pokolenie - Klara i Wacław, przedstawiciele nowej, romantycznej formacji kulturowej. Rozbudowany obraz życia polskiej szlachty w momencie przełomu czyni z utworu **komedię obyczajową**, która obnaża obyczaje określonego środowiska, ośmiesza panujące w nim konwencje, zasady współżycia, przywary moralne itp. *Zemsta* jest również **komedią charakterów**. W utworze znajdziemy komizm:
+
+- **sytuacyjny** - bawi widza spiętrzeniem niefortunnych i niezwykłych wypadków wymuszających na bohaterach śmieszne zachowania;
+- **postaci (charakterów)** - uwaga autora jest skupiona na określonym typie postaci, który uosabia jakąś cechę, zwłaszcza wadę: efekt humorystyczny zostaje osiągnięty dzięki przejaskrawieniu wad przedstawianych postaci;
+- **słowny** - mowa poszczególnych bohaterów zostaje zindywidualizowana, zawiera charakterystyczne wtręty językowe, powiedzenia odzwierciadlające charakter danej osoby, sformułowania stylizowane na przysłowia.
+
+Przebieg konfliktu, wynikające z niego pouczenie oraz szczęśliwy finał przypominają dydaktyczne zabiegi pisarzy oświecenia. Jednocześnie jest nasycony pierwiastkami romantycznymi.

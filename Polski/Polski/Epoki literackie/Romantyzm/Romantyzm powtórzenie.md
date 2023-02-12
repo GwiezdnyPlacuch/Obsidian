@@ -4,7 +4,7 @@
 4. [[Preromantyzm w Europie - romantyzm|Preromantyzm w Europie]]
 5. [[Filomaci i filareci]]
 6. [[Cechy literatury romantycznej - romantyzm|Cechy literatury romantycznej]]
-7. Mesjanizm
+7. [[Mesjanizm - romantyzm|Mesjanizm]]
 8. Gatunki literackie
 	- [[Ballada]]
 	- [[Dramat romantyczny]]
@@ -36,17 +36,18 @@
 	- [[Coś ty Atenom zrobił, Sokratesie]]
 	- [[Fortepian Szopena]]
 12. Z. Krasiński 
-	- Nie-Boska Komedia” (R)
+	- Nie-Boska Komedia (R)
 13. [[A. Fredro]]
 	- [[Zemsta]]
 14. J. Duda-Gracz
 	- Wielka Emigracja
-15. [[J W Goethe]]
+15. [[Eugène Delacroix]]
+	- [[Wolność wiodąca lud na barykady]]
+16. [[J W Goethe]]
 	- [[Cierpienia młodego Wertera]]
-	- Wolność wiodąca lud na barykady
-	- Król olch
+	- [[Król olch]]
 	- Faust
 		- nowa forma dramatyczna
-16. [[G. Byron]]
+17. [[G. Byron]]
 	- [[Giaur]]
-17. Kontynuacje i nawiązania, motywy, teksty kultury
+18. Kontynuacje i nawiązania, motywy, teksty kultury

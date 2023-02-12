@@ -1,0 +1,3 @@
+Ballada *Król Olch* została napisana przez Goethego w 1782 roku. Poeta stworzył ją jako część większej ballady operowej zatytułowanej *Die Fischerin*.
+
+Biografowie artysty twierdzą, że pewnego późnego wieczora, gdy odwiedzał swojego przyjaciela, minął go człowiek pędzący na koniu. Na rękach wiózł zawiniątko. Następnego dnia Goethe z przyjacielem dowiedzieli się, że był to rolnik wiozący swojego chorego syna do miejscowego lekarza. To zdarzenie oraz krążąca po okolicy legenda stanowiły inspirację do napisania *Króla Olch*.
