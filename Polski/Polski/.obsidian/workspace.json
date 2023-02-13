@@ -46,19 +46,31 @@
             }
           },
           {
-            "id": "3980025be194303a",
+            "id": "764123b91dde3230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Geneza - lalka.md",
+                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Kompozycja i styl - lalka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "653e0d61a8996a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gatunki literackie/Gatunki literackie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Geneza - lalka.md",
+                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Geneza - lalka.md",
+                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Geneza - lalka.md"
+                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md"
               }
             }
           }
@@ -185,17 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3980025be194303a",
+  "active": "54439dfc26690f22",
   "lastOpenFiles": [
+    "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Kompozycja i styl - lalka.md",
     "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md",
+    "Gatunki literackie/Gatunki literackie.md",
+    "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Gatunek - lalka.md",
+    "Gatunki literackie/epika/Powieści/Powieść psychologiczna.md",
+    "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Geneza - lalka.md",
     "Polska literatura/Pozytywizm/Bolesław Prus/Bolesław Prus.md",
     "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
     "Gatunki literackie/epika/Powieści/Powieść historyczna.md",
-    "Gatunki literackie/Gatunki literackie.md",
-    "Gatunki literackie/epika/Powieści/Powieść realistyczna.md",
-    "Gatunki literackie/Felieton.md",
-    "Gatunki literackie/Kronika.md",
-    "Gatunki literackie/epika/Opowiadanie.md",
-    "Polska literatura/Dwudziestolecie międzywojenne/Bruno Schulz/Sklepy Cynamonowe/Sklepy Cynamonowe.md"
+    "Gatunki literackie/epika/Powieści/Powieść realistyczna.md"
   ]
 }
