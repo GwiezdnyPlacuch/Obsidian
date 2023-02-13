@@ -20,9 +20,7 @@
 	- [[Dziady cz IV]]
 	- [[Dziady cz III]]
 	- [[Pan Tadeusz|Pan Tadeusz]]
-	- Konrad Wallenrod
-		- Walenrodyzm
-		- przesłanie i znaczenie utworu
+	- [[Konrad Wallenrod]]
 10. [[Juliusz Słowacki]]
 	- [[Kordian]] (R)
 	- [[Rozłączenie]]
@@ -46,8 +44,7 @@
 16. [[J W Goethe]]
 	- [[Cierpienia młodego Wertera]]
 	- [[Król olch]]
-	- Faust
-		- nowa forma dramatyczna
+	- [[Faust]] (R) //dokończyć
 17. [[G. Byron]]
 	- [[Giaur]]
 18. Kontynuacje i nawiązania, motywy, teksty kultury

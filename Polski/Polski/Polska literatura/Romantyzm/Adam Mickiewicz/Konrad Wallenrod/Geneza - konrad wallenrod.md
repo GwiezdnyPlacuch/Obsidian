@@ -1,0 +1,4 @@
+*Konrad Wallenrod* powstawał w latach 1825-1827, w czasie pobytu Adama Mickiewicza na zesłaniu w Rosji. Zesłanie było spowodowane dawną działalnością poety w tajnych związkach młodzieżowych, filomatów i filaretów.
+
+W czasie zesłania Mickiewicz pracował w kancelarii gubernatora jako urzędnik państwowy, służył więc tym samym, choć wbrew sobie, zaborcy, krajowi, który był odwiecznym wrogiem jego ojczyzny. W podobnej jak Mickiewicz sytuacji znajdowało się w tym czasie wielu Polaków, przymusowo wcielonych do armii carskiej lub zmuszonych do pracy w rosyjskiej administracji państwowej. Mickiewicz próbując odnaleźć się w tej dwuznacznej sytuacji, pisze dla siebie i dla zesłanych jak on rodaków, Konrada Wallenroda.
+Utwór ukazał się w Petersburgu w lutym 1828 roku pod tytułem: *Konrad Wallenrod. Powieść historyczna z dziejów litewskich i pruskich*.

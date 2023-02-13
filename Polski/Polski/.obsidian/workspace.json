@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f5a102d7472636b",
+            "id": "6f3055d26f9f88c5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+                "file": "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,19 +22,39 @@
             }
           },
           {
-            "id": "6feccabc8c07dd96",
+            "id": "26e9b48a732610de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
+                "file": "Epoki literackie/Pozytywizm/Pojęcia kluczowe - pozytywizm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8486de2fca7f2b0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "277b244abd071d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filozofia/Ewolucjonizm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6feccabc8c07dd96",
+  "active": "c8486de2fca7f2b0",
   "lastOpenFiles": [
-    "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+    "Filozofia/Filozofia.md",
+    "Filozofia/Ewolucjonizm.md",
+    "Epoki literackie/Pozytywizm/Pojęcia kluczowe - pozytywizm.md",
+    "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
+    "Epoki literackie/Pozytywizm/Charakterystyczne kierunki filozoficzne - pozytywizm.md",
+    "Filozofia/Scjentyzm.md",
     "Epoki literackie/Romantyzm/Pojęcia kluczowe - romantyzm.md",
-    "Polska literatura/Romantyzm/Adam Mickiewicz/Ballady i romanse/Świtezianka/Świtezianka.md",
-    "Zagraniczne obrazy/Eugène Delacroix/Eugène Delacroix.md",
-    "Zagraniczne obrazy/Eugène Delacroix/Untitled 1.md",
-    "Epoki literackie/Romantyzm/Mesjanizm - romantyzm.md",
-    "Motywy literackie/Motywy literackie.md",
-    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Król Olch/Król olch.md",
-    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Król Olch/Romantyzm w Królu Olch.md",
-    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Król Olch/Geneza - król olch.md"
+    "Epoki literackie/Pozytywizm/Nazwa i ramy czasowe epoki - pozytywizm.md",
+    "Epoki literackie/Romantyzm/Romantyzm powtórzenie.md",
+    "Zagraniczna literatura/Romantyzm/Johann Wolfgang von Goethe/Faust/Faust.md"
   ]
 }

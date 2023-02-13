@@ -1,0 +1,3 @@
+Na zachodzie termin *pozytywizm* jest używany przede wszystkim dla określenia kierunku filozoficznego. Zapoczątkował go Auguste Comte twierdzeniem, że rozwój cywilizacji i dobrobyt społeczeństw może zapewnić wyłączenie wiedza pozytywna, czyli pewna i ścisła, motywująca do praktycznego działania. Jedynie w Polsce nazwa *pozytywizm* dotyczy epoki w historii literatury i sztuki. Na Zachodzie mówi się o panujących wówczas prądach: realizmie lub naturalizmie, zaś intensywne procesy społeczno-gospodarcze, które wtedy zachodziły, charakteryzuje się mianem rewolucji przemysłowej.
+
+Za początek pozytywizmu uznaje się w Polsce **klęskę powstania styczniowego 1863 - 1864**, która pogrążyła romantyczne nadzieje wolnościowe, a za koniec - **lata 90 XIX w.**
