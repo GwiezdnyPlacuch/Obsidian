@@ -1,4 +1,6 @@
 1. [[Panteizm]]
 2. [[Egzystencjalizm]]
-3. [[Scjentyzm]] //dokończyć
-4. [[Ewolucjonizm]] //dokończyć
+3. [[Scjentyzm]
+4. [[Ewolucjonizm]] 
+5. [[Utylitaryzm]]
+6. [[Organicyzm]]

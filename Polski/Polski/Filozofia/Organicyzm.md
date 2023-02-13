@@ -1,0 +1,11 @@
+Organicyzm to pogląd filozoficzny, w myśl którego **społeczeństwo postrzegane jest jako żywy organizm. Jego funkcjonowanie i rozwój zależne są od działania pomniejszych części – ściśle powiązanych ze sobą organów**.  
+    
+## Twórca   
+Organicyzm do nauk socjologicznych wprowadził w XIX stuleciu **Herbert Spence**r. Jednak jest to pogląd znacznie starszy, reprezentowany już w starożytności zarówno przez myślicieli greckich (Platon, stoicy), jak i chrześcijańskich (święty Paweł). Najsilniejsze oddziaływanie tego sposobu patrzenia na społeczeństwo miało miejsce właśnie w czasach nowożytnych. Wielki wpływ miało na to znaczne **zainteresowanie naukami przyrodniczymi oraz panujący wówczas monizm przyrodniczy – przekonanie, że natura i świat ludzki rządzą stanowią jedność, a więc rządzą się tymi samymi prawami**.  
+    
+## Opis
+Organicyzm to **pogląd odrzucający redukcjonizm**, czyli przekonanie, iż opisanie większej całości jest możliwe tylko poprzez charakterystykę jego części. W przypadku organicyzmu **bytem złożonym jest społeczeństwo, które składa się z mniejszych elementów nieustannie wchodzących ze sobą w interakcje.** Są nimi rozmaite instytucje, organizacje itp., jakie można porównać do poszczególnych organów ludzkiego ciała – nerek, wątroby itd. Jeśli jedna z nich przestanie działać we właściwy sposób, normalne funkcjonowanie staje się niemożliwe. Zwolennicy organizmu dostrzegali więc, że **społeczeństwo składa się z mniejszych części, lecz nie stawiali znaku równości między sumą tych elementów a bytem głównym. Był on dla nich czymś więcej niż ich całość, posiadał także własne, charakterystyczne cechy, które nie opisywały poszczególnych fragmentów**.  
+      
+Zwolennicy organicyzmu byli także **w opozycji do przedstawicieli mechanicyzmu** – poglądu popularnego w okresie od XVI do XVIII stulecia, w myśl którego wszystkie zjawiska i procesy można wyjaśnić poprzez zastosowanie terminologii właściwej dla mechaniki (również należących do tej nauki pojęć i praw).  
+      
+Ważną cechą organicyzmu jest fakt, iż **koncepcja ta odrzuca założenia witalizmu, czyli poglądu głoszącego przekonanie, że w zjawiskach życiowych obecne są rozmaite siły nadprzyrodzone napędzające kolejne wydarzenia. Organicyzm opisywał te zjawiska w sposób czysto biologiczny**, co doskonale korespondowało z ówczesnymi tendencjami naukowymi.

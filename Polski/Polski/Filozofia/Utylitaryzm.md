@@ -1,0 +1,11 @@
+Utylitaryzm to **postawa, uznająca za najwyższe dobro użyteczność, a więc pożytek jednostki lub ogółu**. Utylitaryzm zwany jest też „filozofią zdrowego rozsądku”, ponieważ daleki jest od abstrakcyjnych spekulacji, jego celem jest konkretne działanie, dające „największe szczęście największej liczbie ludzi”.
+
+Prąd ten zrodził się w oświeceniowej filozofii jako próba odpowiedzi na pytanie o właściwy sposób postępowania. Utylitaryści chcieli ustalić pewne, ogólne i powszechne zasady postępowania. **Za kryterium rozróżnienia działań dobrych i złych, a więc pozytywnych i negatywnych, przyjęli użyteczność**. I tak – postępowanie jest dobre, kiedy przynosi jak najwięcej szczęścia i jak najmniej nieszczęścia. W świetle tego rozumowania, lepiej skrzywdzić jedną osobę, niż dopuścić do nieszczęścia kilku.
+
+Podstawowym problemem było jednak zdefiniowanie szczęścia i określenie jego siły. Jak bowiem określić, jakie zachowanie przyniesie więcej pożytku, jeśli ów pożytek pozostaje niezmierzony? Nie sposób porównać szczęścia bądź nieszczęścia odczuwanego przez dwie różne osoby. Właśnie kwestia szczęścia najsilniej dzieliła przedstawicieli tego poglądu. W efekcie utylitaryści dochodzili do skrajnie różnych wniosków.
+
+Utylitaryści skupiali się **na efektach** ludzkiego zachowania, intencje nie miały dla nich większego znaczenia. Etyczny wymiar postępowania wyznaczały więc jego skutki, a nie zamierzenia. Właśnie za to utylitaryzm był najsilniej krytykowany w XIX wieku.
+
+Za pierwszego wyznawcę utylitaryzmu uznaje się **Francisa Hutchesona**, który sformułował zasadę użyteczności w 1725 roku. Jednak już wcześniej w pismach **Shaftesbury'ego i Hume'a** można odnaleźć zapowiedź tej filozofii.
+
+Utylitaryzm jako postawę zdefiniowali dopiero **Jeremy Bentham i James Mill**. Pierwszy z nich jest autorem tak zwanej klasycznej teorii utylitaryzmu, która utożsamiała szczęście z przyjemnością. Drugi natomiast był propagatorem idei, iż moralne postępowanie to takie, które służy dobru społeczeństwa. Mill porzucił później utylitaryzm na rzecz racjonalizmu Kantowskiego. Kontynuatorami idei utylitarnych byli **John Stuart Mill** i Henry Sidgwick.

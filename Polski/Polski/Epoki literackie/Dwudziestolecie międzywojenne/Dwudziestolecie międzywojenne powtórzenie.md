@@ -7,7 +7,7 @@
 7. Poezja B. Leśmiana
 8. Poezja M. Pawlikowskiej-Jasnorzewskiej
 9. W. Gombrowicz "Ferdydurke"
-10. [[Bruno Schulz 'Sklepy Cynamonowe']]
+10. [[Sklepy Cynamonowe]]
 11. Z. Nałkowska "Granica"
 12. S. Żeromski "Przedwiośnie"
 13. S. Witkiewicz "Szewcy"
