@@ -8,17 +8,17 @@
 	- [[felieton]]
 	- [[Powieść realistyczna]]
 	- [[Powieść historyczna]]
-5. B. Prus
+5. [[Bolesław Prus]]
 	- [[Lalka]]
-	- Kamizelka
+	- [[Kamizelka]]
 	- Wieża paryska
 6. E. Orzeszkowa
 	- Gloria victis
 	- Nad Niemnem (fragmenty)
-7. H Sienkiewicz 
+7. [[Henryk Sienkiewicz ]]
 	- Potop
-	- Quo vadis
-	- Krzyżacy
+	- Quo vadis 
+	- [[Krzyżacy]]
 8. Adam Asnyk
 9. Maria Konopnicka
 	- Mendel Gdański

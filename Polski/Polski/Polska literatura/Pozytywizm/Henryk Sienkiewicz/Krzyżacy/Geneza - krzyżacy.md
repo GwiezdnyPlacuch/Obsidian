@@ -1,0 +1,1 @@
+Powieść *Krzyżacy* była drukowana najpierw przez cztery lata w odcinkach w *Tygodniku Ilustrowanym*, a w 1900 r. ukazało się jej wydanie książkowe. Henryk Sienkiewicz zamierzał przedstawić w utworze historyczne korzenie ekspensywnej polityki Niemiec zjednoczonych przez Ottona von Bismarcka oraz wzmocnić opór Polaków przed germanizacją.

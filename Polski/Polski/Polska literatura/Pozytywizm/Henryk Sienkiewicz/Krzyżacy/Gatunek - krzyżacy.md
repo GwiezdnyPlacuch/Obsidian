@@ -1,0 +1,1 @@
+*Krzyżacy* to [[Powieść historyczna|powieść historyczna]] opowiadająca o losach fikcyjnych i autentycznych bohaterów pokazanych na tle ważnych wydarzeń z przeszłości narodu. Utwór odznacza się wartką i zwartą akcją. Miłosnym perypetiom głównego bohatera - Zbyszka z Bogdańca - towarzyszy refleksja historiozoficzna i moralna służąca pokrzepieniu serc czytelników.

@@ -22,55 +22,30 @@
             }
           },
           {
-            "id": "813a621261453819",
+            "id": "64297712414f12b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Bolesław Prus.md",
+                "file": "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Henryk Sienkiewicz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "54439dfc26690f22",
+            "id": "2c720b6a467a10d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "764123b91dde3230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Kompozycja i styl - lalka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "653e0d61a8996a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gatunki literackie/Gatunki literackie.md",
+                "file": "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Krzyżacy/Krzyżacy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md",
+                "file": "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md",
+                "file": "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md"
+                "file": "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md"
               }
             }
           }
@@ -197,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54439dfc26690f22",
+  "active": "6f3055d26f9f88c5",
   "lastOpenFiles": [
-    "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Kompozycja i styl - lalka.md",
-    "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Lalka.md",
-    "Gatunki literackie/Gatunki literackie.md",
-    "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Gatunek - lalka.md",
-    "Gatunki literackie/epika/Powieści/Powieść psychologiczna.md",
-    "Polska literatura/Pozytywizm/Bolesław Prus/Lalka/Geneza - lalka.md",
-    "Polska literatura/Pozytywizm/Bolesław Prus/Bolesław Prus.md",
+    "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Henryk Sienkiewicz.md",
     "Epoki literackie/Pozytywizm/Pozytywizm powtórzenie.md",
-    "Gatunki literackie/epika/Powieści/Powieść historyczna.md",
-    "Gatunki literackie/epika/Powieści/Powieść realistyczna.md"
+    "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Krzyżacy/Krzyżacy.md",
+    "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Krzyżacy/Najważniejsze problemy - krzyżacy.md",
+    "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Krzyżacy/Czas i miejsce akcji - krzyżacy.md",
+    "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Krzyżacy/Gatunek - krzyżacy.md",
+    "Polska literatura/Pozytywizm/Henryk Sienkiewicz/Krzyżacy/Geneza - krzyżacy.md",
+    "Polska literatura/Pozytywizm/Bolesław Prus/Kamizelka/Kamizelka.md",
+    "Polska literatura/Pozytywizm/Bolesław Prus/Kamizelka/Problematyka - kamizelka.md",
+    "Polska literatura/Pozytywizm/Bolesław Prus/Kamizelka/Gatunek - kamizelka.md"
   ]
 }

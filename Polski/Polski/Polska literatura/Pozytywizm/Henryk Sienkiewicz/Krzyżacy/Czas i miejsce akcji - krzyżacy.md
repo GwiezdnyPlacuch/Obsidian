@@ -1,0 +1,1 @@
+Akcja toczy się do 1399 r. (śmierć królowej Jadwigi) do lipca 1410 r. (bitwa pod Grunwaldem) na terenie Królestwa Polskiego, księstwa mazowieckiego, Żmudzi (region Litwy) oraz państwa zakonnego.
