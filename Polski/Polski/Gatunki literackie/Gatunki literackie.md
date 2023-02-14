@@ -23,6 +23,9 @@ W ramach każdego z trzech rodzajów literackich wyodrębnia się określone gat
 		7. powieść wywiad
 		8. [[Powieść parabola]]
 		9. [[Powieść poetycka]]
+		10. [[Powieść kryminalna]] //dokończyć
+		11. [[Powieść naturalistyczna]] //dokończyć
+		12. [[Powieść polifoniczna]] //dokończyć
 4. dramat
 	1. tragedia antyczna
 	2. komedia
