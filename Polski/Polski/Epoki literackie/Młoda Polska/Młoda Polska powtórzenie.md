@@ -5,7 +5,8 @@
 5.  Poezja J,Kasprowicza
 6.  Poezja L. Staffa
 7.  S. Wyspiański “Wesele”
-8.  W. S Reymont “Chłopi” t. 1
+8.  [[Władysław Stanisław Reymont ]]
+	- [[Chłopi tom 1.]]
 9.  S. Żeromski “Ludzie bezdomni”, “Syzyfowe Prace”
 10.  J. Conrad “Jądro Ciemności”
 11.  Cechy literatury Młodopolskiej
