@@ -1,0 +1,1 @@
+Akcja rozgrywa się w latach 40. XX w. w Oranie, nadmorskim mieśce w Algierii, będącej w tym czasie kolonią francuską.
