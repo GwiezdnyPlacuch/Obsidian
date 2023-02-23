@@ -20,3 +20,4 @@ odmiana powieści przedstawiająca rzeczywistość w sposób obiektywny: cechuj�
 Przykłady w utworach:
 - [[Lalka|Bolesław Prus "Lalka"]]
 - [[Chłopi|Władysław Reymont "Chłopi"]]
+- [[Pani Bovary|Gustaw Flaubert "Pani Bovary"]]

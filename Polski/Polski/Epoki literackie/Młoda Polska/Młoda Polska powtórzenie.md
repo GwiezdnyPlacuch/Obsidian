@@ -1,4 +1,4 @@
-1.  Nazwa i ramy czasowe epoki
+1.  [[Nazwa i ramy czasowe epoki - młoda polska|Nazwa i ramy czasowe epoki]]
 2.  Pojęcia kluczowe: dekadentyzm, sztuka dla sztuki, chłopomania, fin de siecle, symbolizm
 3.  Filozofia: A Schopenhauer, F. Nietzsche
 4.  Poezja K Przerwy-Tetmajera

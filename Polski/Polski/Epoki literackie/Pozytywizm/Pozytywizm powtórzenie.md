@@ -6,7 +6,7 @@
 	- [[Opowiadanie]]
 	- [[kronika]]
 	- [[felieton]]
-	- [[Powieść realistyczna]]
+	- [[Powieść realistyczna i społeczno-obyczajowa]]
 	- [[Powieść historyczna]]
 5. [[Bolesław Prus]]
 	- [[Lalka]]

@@ -16,7 +16,7 @@ W ramach każdego z trzech rodzajów literackich wyodrębnia się określone gat
 	4. powieść
 		1. [[Powieść historyczna]]
 		2. [[Powieść epistolarna]]
-		3. [[Powieść realistyczna]] (obyczajowa)
+		3. [[Powieść realistyczna i społeczno-obyczajowa]] (obyczajowa)
 		4. [[powieść psychologiczna]] //dokończyć
 		5. powieść polifoniczna
 		6. powieść groteskowa

@@ -1,5 +1,5 @@
 *Zbrodnia i kara* łączy cechy powieści:
-- [[Powieść realistyczna|realistycznej]] - działania postaci są osadzone w wiernie i szczegółowo przedstawionych realiach topograficznych, społecznych i obyczajowych Rosji lat 60 XIX w.;
+- [[Powieść realistyczna i społeczno-obyczajowa|realistycznej]] - działania postaci są osadzone w wiernie i szczegółowo przedstawionych realiach topograficznych, społecznych i obyczajowych Rosji lat 60 XIX w.;
 - **[[Powieść psychologiczna|psychologicznej]]** - koncentruje się na pogłębionej analizie życia psychicznego bohaterów.
   Powieść daje wnikliwy rysunek psychologiczny zbrodniarza, jego przeżycia, uczucia. Pokazuje, jak rozwija się mechanizm zbrodni. Obok studium zbrodni mamy również rozważania nad istotą kłamstwa i jego znaczeniem w życiu jednostki, która próbuje dojść do prawdy. Autor pokazuje również zmiany, jakie dokonały się w życiu bohatera po dokonaniu zbrodni, jak zmienia się jego świat, życie, system wyznawanych wartości. W Zbrodni i karze widzimy różne reakcje mordercy; możemy śledzić wewnętrzną walkę człowieka wrażliwego, dręczonego wyrzutami sumienia.
   
