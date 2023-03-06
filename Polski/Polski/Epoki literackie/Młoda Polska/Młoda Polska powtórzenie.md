@@ -6,7 +6,8 @@
 6.  Poezja K Przerwy-Tetmajera
 7.  Poezja J,Kasprowicza
 8.  Poezja L. Staffa
-9.  S. Wyspiański “Wesele”
+9.  Stanisław Wyspiański
+	- [[Wesele]]*
 10.  [[Władysław Stanisław Reymont ]]
 	- [[Chłopi tom 1.]]
 11.  S. Żeromski “Ludzie bezdomni”, “Syzyfowe Prace”
@@ -27,20 +28,6 @@
 - Interpretacja tytułu "Ludzie bezdomni".
 - Polskie społeczeństwo w powieści Żeromskiego.
 - Cechy powieści młodopolskiej. Uniwersalne przesłanie "Ludzi bezdomnych".
-- Realni i fantastyczni bohaterowie "Wesela" S. Wyspiańskiego.
-- Symbole w "Weselu".
-- Wzajemne relacje między chłopami a inteligencją ukazane w Weselu
-- "Wesele" jako dramat.
-- Ocena polskiego społeczeństwa w "Weselu".
-- Geneza utworu "Chłopi" W. Reymonta.
-- Jagna jako femme fatale.
-- Zakazana miłość w Reymontowskich Lipcach.
-- Konflikt międzypokoleniowy w "Chłopach".
-- Zwyczaje w "Chłopach" W. Reymonta.
-- , Bohater zbiorowy w "Chłopach".
-- Impresjonizm i naturalizm w powieści W. Reymonta.
-- "Chłopi" jako epopeja narodowa.
-- Dialektyzacja. Uwagi o języku "Chłopów".
 - "Jądro ciemności" J. Conrada - kompozycja szkatułkowa.
 - Podróż - poszukiwanie siebie czy odkrywanie świata? ("Jądro ciemności" J. Conrada)
 - Marlow i Kurtz - bohaterowie "Jądra ciemności".

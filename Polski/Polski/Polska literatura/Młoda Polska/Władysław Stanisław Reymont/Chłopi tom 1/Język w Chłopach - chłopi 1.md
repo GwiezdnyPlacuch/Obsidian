@@ -1,0 +1,2 @@
+W partiach narracyjno-opisowych dominuje język literacki z przełomu XIX i XX wieku, lecz niełatwo jest dostrzec fragmenty, które nie zostałyby urozmaicone elementami gwarowymi i archaicznymi
+Czasami narrator nadaje swojej opowieści cechy charakterystyczne dla mowy **wiejskiego gaduły**, przyjmuje punkt widzenia członka chłopskiej wspólnoty (m. in. posługuje się dialektyzmami). Stylizacja gwarowa dominuje w dialogach.

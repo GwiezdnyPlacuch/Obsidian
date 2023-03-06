@@ -1,0 +1,1 @@
+*Chłopi* są powieścią o cechach epopei. Wskazuje na to przede wszystkim fakt, że wszechstronnie portretują daną społeczność - wiejską, w przełomowym dla niej momencie dziejowym - budzenia się chłopskiej świadomości klasowej i narodowej. Wydarzenia i bohaterowie zostali ukazani w sposób realistyczny, a momentami naturalistyczny.

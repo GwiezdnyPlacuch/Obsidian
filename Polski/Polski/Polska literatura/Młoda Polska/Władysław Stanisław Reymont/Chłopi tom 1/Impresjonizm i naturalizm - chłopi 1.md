@@ -1,0 +1,2 @@
+- **impresjonizm** - ukazuje się zwłaszcza w opisach przyrody - zmienność i ulotność wrażeń, zestawianie barwnych plam, gra światła
+- **naturalizm** - ukazana poprzez niemal fotograficzną wierność w odtwarzaniu szczegółów codziennych zajęć, obyczajów mieszkańców wsi oraz wyglądu chat, strojów, narzędzi pracy itd. Motywowanie zachowań ludzi głównie instynktem, biologią.
