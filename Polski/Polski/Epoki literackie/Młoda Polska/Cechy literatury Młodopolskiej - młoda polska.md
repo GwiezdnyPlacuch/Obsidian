@@ -1,0 +1,7 @@
+- uwypuklająca schyłkowość, pesymizm, **nastroje dekadenckie**
+- wykorzystująca elementy impresjonizmu, ekspresjonizmu, symbolizmu: **oddziałująca na różne zmysły odbiorcy**
+- realizująca hasła **[[Pojęcia kluczowe - młoda polska||sztuka dla sztuki]]**, skupiona na kwestiach estetycznych bez uwikłań społecznych
+- podejmująca tematy psychologiczno-obyczajowe, erotyczne (miłość skojarzona ze śmiercią)
+- podkreślająca **indywidualizm twórcy**, oryginalność dziłą
+- nawiązująca do artystycznego i ideowego dziedzictwa romantyzmu
+- dominacja liryki i dramatu

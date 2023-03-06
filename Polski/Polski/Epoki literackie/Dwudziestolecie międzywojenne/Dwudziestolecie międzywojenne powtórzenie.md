@@ -15,3 +15,21 @@
 15. M. Bulhakow "Mistrz i Małgorzata"
 16. Cechy literatury dwudziestolecia
 17. Kontynuacje i nawiązania, motywy, teksty kultury
+
+- Obrazy miasta w tekstach kultury - J. Tuwim "Chrystus miasta".
+- Kompozycja "Przedwiośnia" S. Żeromskiego i losy C. Baryki.
+- Koncepcje Polski w "Przedwiośniu" S. Żeromskiego.
+- Granica" Z. Nałkowskiej jako powieść psychologiczna.
+- Interpretacja tytułu "Granica".
+- Bohaterowie "Granicy" uwikłani w trójkąt miłosny.
+- Przegląd środowisk społecznych w "Granicy".
+- Wszystko jest formą - wprowadzenie do "Ferdydurke" W. Gombrowicza.
+- Lekcja języka polskiego - interpretacja fragmentu "Ferdydurke".
+- Narracja i język w "Ferdydurke".
+- Groteska w "Ferdydurke".
+- Różnice międzypokoleniowe w powieści W. Gombrowicza "Ferdydurke".
+- Dworek szlachecki w Bolimowie na podstawie "Ferdydurke".
+- Młodziakowie - charakterystyka nowoczesnej rodziny.
+- Józef K. - bohater "Procesu" F. Kafki - jako everyman.
+- Oniryzm i mityzacja w "Sklepach cynamonowych" B. Schulza.
+- 
